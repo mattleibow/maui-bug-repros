@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MauiApp1"
+             x:Class="MauiApp1.MainPage">
+
+    <VerticalStackLayout>
+
+        <!--
+            This results in a correct UI because there is no DataType and XamlC uses
+            non-type-specific bindings.
+        -->
+        <Label Text="Correct binding, no DataType:" />
+        <CollectionView ItemsSource="{Binding Items}" HeightRequest="100">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Label Text="{Binding Name}" />
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <!--
+            This results in a correct UI because there is no DataType and XamlC uses
+            non-type-specific bindings.
+        -->
+        <Label Text="Correct nested binding, no DataType:" />
+        <CollectionView ItemsSource="{Binding Items}" HeightRequest="100">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <CollectionView ItemsSource="{Binding SubItems}" HeightRequest="100">
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <Label Text="{Binding Name}" />
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                    </CollectionView>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <!--
+            This results in an incorrect UI because the DataType on the
+            DataTemplate is the wrong one.
+            The generated TypedBinding is using the "incorrect" types:
+                 TypedBinding<SubItem, string>
+        -->
+        <Label Text="Incorrect binding, an incorrect DataType:" />
+        <CollectionView ItemsSource="{Binding Items}" HeightRequest="100">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="local:SubItem">
+                    <Label Text="{Binding Name}" />
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <!--
+            This results in an incorrect UI because there is no DataType on the
+            DataTemplate and XamlC falls back to the DataType on the one above.
+            The generated TypedBinding is using the incorrect types:
+                 TypedBinding<CollectionItem, string>
+        -->
+        <Label Text="Incorrect nested binding, parent DataType:" />
+        <CollectionView ItemsSource="{Binding Items}" HeightRequest="100">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="local:CollectionItem">
+                    <CollectionView ItemsSource="{Binding SubItems}" HeightRequest="100">
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <Label Text="{Binding Name}" />
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                    </CollectionView>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <!--
+            This results in an incorrect UI because the DataType is not on the 
+            DataTemplate so is ignored.
+            The generated TypedBinding is using the incorrect types:
+                 TypedBinding<CollectionItem, string>
+        -->
+        <Label Text="Incorrect nested binding, parent DataType:" />
+        <CollectionView ItemsSource="{Binding Items}" HeightRequest="100">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="local:CollectionItem">
+                    <CollectionView ItemsSource="{Binding SubItems}" HeightRequest="100">
+                        <CollectionView.ItemTemplate x:DataType="local:SubItem">
+                            <DataTemplate>
+                                <Label Text="{Binding Name}" />
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                    </CollectionView>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </VerticalStackLayout>
+
+</ContentPage>
