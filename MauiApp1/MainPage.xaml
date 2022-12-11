@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MauiApp1"
+             x:Class="MauiApp1.MainPage">
+
+    <CollectionView ItemsSource="{Binding Items}">
+        <CollectionView.ItemTemplate>
+            <local:DynamicTemplateSelector>
+                <!--<local:DynamicTemplateSelector.Templates>-->
+                    <local:DynamicDataTemplate>
+                        <DataTemplate>
+                            <Label Text="{Binding .}" />
+                        </DataTemplate>
+                    </local:DynamicDataTemplate>
+                    <local:DynamicDataTemplate Key="Button">
+                        <DataTemplate>
+                            <Button />
+                        </DataTemplate>
+                    </local:DynamicDataTemplate>
+                    <local:DynamicDataTemplate Key="Switch">
+                        <DataTemplate>
+                            <Switch />
+                        </DataTemplate>
+                    </local:DynamicDataTemplate>
+                <!--</local:DynamicTemplateSelector.Templates>-->
+            </local:DynamicTemplateSelector>
+        </CollectionView.ItemTemplate>
+    </CollectionView>
+
+</ContentPage>
