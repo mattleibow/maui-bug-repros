@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout>
+            <Label Text="BEFORE" />
+            <WebView Source="https://play.famobi.com/smarty-bubbles-2/A-FAMOBI-COM" />
+            <Label Text="AFTER" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
