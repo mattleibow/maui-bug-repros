@@ -1,0 +1,8 @@
+﻿<Project>
+
+	<Target Name="TestMessage2" BeforeTargets="Build">
+		<Message Text="========== SolutionDir is $(SolutionDir) ==========" Importance="high" />
+		<Message Text="========== ProjectDir is $(ProjectDir) ==========" Importance="high" />
+	</Target>
+
+</Project>
