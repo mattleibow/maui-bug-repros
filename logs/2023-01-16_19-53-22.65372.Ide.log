@@ -1,0 +1,252 @@
+Xamarin Information: 0 : Xamarin - 17.4.0.312-d17-4+be7e8d1: 01 16 2023 17:53:22Z
+    DateTime=2023-01-16T17:53:22.2552387Z: 01 16 2023 17:53:22Z
+Xamarin Information: 0 : !Xamarin - 17.4.0.312-d17-4+be7e8d1: 01 16 2023 17:53:22Z
+    DateTime=2023-01-16T17:53:22.2582544Z: 01 16 2023 17:53:22Z
+Xamarin.VisualStudio.TastyPackage Information: 0 : Hooked up SDB tracing adapter: 01 16 2023 17:53:23Z
+    DateTime=2023-01-16T17:53:23.3812641Z: 01 16 2023 17:53:23Z
+Xamarin.VisualStudio.TastyPackage Information: 0 : Initialization finished: 01 16 2023 17:53:23Z
+    DateTime=2023-01-16T17:53:23.4554390Z: 01 16 2023 17:53:23Z
+Xamarin.VisualStudio.TastyPackage Information: 0 : Hooked up SDB tracing adapter: 01 16 2023 17:53:23Z
+    DateTime=2023-01-16T17:53:23.4689540Z: 01 16 2023 17:53:23Z
+Xamarin.VisualStudio.TastyPackage Information: 0 : Initialization finished: 01 16 2023 17:53:23Z
+    DateTime=2023-01-16T17:53:23.4931657Z: 01 16 2023 17:53:23Z
+Xamarin.VisualStudio.Android.XamarinAndroidPackage Warning: 0 : Initializing Xamarin.VisualStudio.Android.XamarinAndroidPackage: 01 16 2023 17:53:23Z
+    DateTime=2023-01-16T17:53:23.4941632Z: 01 16 2023 17:53:23Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkSetup Information: 0 : androidsdksetup: processing AndroidStarted event: 01 16 2023 17:53:23Z
+    DateTime=2023-01-16T17:53:23.5367530Z: 01 16 2023 17:53:23Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkSetup Information: 0 : androidsdksetup: verify mustCheckIfSolutionIsReady:True delay:00:00:02: 01 16 2023 17:53:23Z
+    DateTime=2023-01-16T17:53:23.5452767Z: 01 16 2023 17:53:23Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkSetup Information: 0 : androidsdksetup: verify canceled => solution is not ready: 01 16 2023 17:53:23Z
+    DateTime=2023-01-16T17:53:23.5462786Z: 01 16 2023 17:53:23Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Starting Broker in-process...: 01 16 2023 17:53:24Z
+    DateTime=2023-01-16T17:53:24.2596066Z: 01 16 2023 17:53:24Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Starting Broker in-process...: 01 16 2023 17:53:24Z
+    DateTime=2023-01-16T17:53:24.2596066Z: 01 16 2023 17:53:24Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Starting: Broker 17.4.0.312 ( PID = 65372 ): 01 16 2023 17:53:24Z
+    DateTime=2023-01-16T17:53:24.2965864Z: 01 16 2023 17:53:24Z
+Xamarin.Messaging.Server.MessagingServer Information: 0 : Starting Messaging Server...: 01 16 2023 17:53:24Z
+    DateTime=2023-01-16T17:53:24.3071095Z: 01 16 2023 17:53:24Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Connecting Agent to the Broker...: 01 16 2023 17:53:24Z
+    DateTime=2023-01-16T17:53:24.3955752Z: 01 16 2023 17:53:24Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Initializing Agent context...: 01 16 2023 17:53:25Z
+    DateTime=2023-01-16T17:53:25.0430233Z: 01 16 2023 17:53:25Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering Agent message handlers...: 01 16 2023 17:53:25Z
+    DateTime=2023-01-16T17:53:25.0470345Z: 01 16 2023 17:53:25Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering message handler for message type: Xamarin.Messaging.GetAgentVersionMessage: 01 16 2023 17:53:25Z
+    DateTime=2023-01-16T17:53:25.0520322Z: 01 16 2023 17:53:25Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering message handler for message type: Xamarin.Messaging.StopAgentMessage: 01 16 2023 17:53:25Z
+    DateTime=2023-01-16T17:53:25.2388487Z: 01 16 2023 17:53:25Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering message handler for message type: Xamarin.Messaging.RegisterAgentMessage: 01 16 2023 17:53:25Z
+    DateTime=2023-01-16T17:53:25.3080415Z: 01 16 2023 17:53:25Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering message handler for message type: Xamarin.Messaging.GetActiveClientsMessage: 01 16 2023 17:53:25Z
+    DateTime=2023-01-16T17:53:25.3305810Z: 01 16 2023 17:53:25Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering message handler for message type: Xamarin.Messaging.GetActiveAgentsMessage: 01 16 2023 17:53:25Z
+    DateTime=2023-01-16T17:53:25.3417504Z: 01 16 2023 17:53:25Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Successfully started Broker in-process: 01 16 2023 17:53:25Z
+    DateTime=2023-01-16T17:53:25.4023638Z: 01 16 2023 17:53:25Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Successfully started Broker in-process: 01 16 2023 17:53:25Z
+    DateTime=2023-01-16T17:53:25.4023638Z: 01 16 2023 17:53:25Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Connecting to Local Broker...: 01 16 2023 17:53:25Z
+    DateTime=2023-01-16T17:53:25.4153824Z: 01 16 2023 17:53:25Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Connecting to Local Broker...: 01 16 2023 17:53:25Z
+    DateTime=2023-01-16T17:53:25.4153824Z: 01 16 2023 17:53:25Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Agent registered: Broker1740312: 01 16 2023 17:53:25Z
+    DateTime=2023-01-16T17:53:25.5090815Z: 01 16 2023 17:53:25Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Agent Broker 17.4.0.312 is running: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.0110947Z: 01 16 2023 17:53:26Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Successfully connected to Local Broker: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.0180964Z: 01 16 2023 17:53:26Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Successfully connected to Local Broker: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.0180964Z: 01 16 2023 17:53:26Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Starting IDB Local Agent...: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.1080852Z: 01 16 2023 17:53:26Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Starting IDB Local Agent...: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.1080852Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Starting: IDB.Local 17.4.0.312 ( PID = 65372 ): 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.1130849Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Connecting Agent to the Broker...: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.1130849Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Initializing Agent context...: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.1140875Z: 01 16 2023 17:53:26Z
+Xamarin.iOS.Windows.MobileDeviceConfigurator Information: 0 : Loading Apple Mobile Device support libraries...: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.1783310Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering Agent message handlers...: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.3068393Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.GetAgentVersionMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.3068393Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.StopAgentMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.3078406Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : IDB Local Registering Handlers: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.3453410Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.ConfigureIDBLocalMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.3453410Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.DownloadDeveloperDiskImagesMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.3966340Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetMobileDeviceConfigurationMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.4226826Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetDevicesMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.4392003Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.RefreshConnectedDevicesMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.4602368Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.DeployAppMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.4977716Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.LaunchAppMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.5188104Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.StopDebuggingAppMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.5389468Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.AddDeveloperAccountMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.5886327Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetDeveloperAccountsMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.6031528Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetSigningIdentitiesMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.6236916Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetProvisioningProfilesMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.6390570Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.RemoveDeveloperAccountMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.6530449Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.SyncSigningIdentitiesMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.6855825Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.SyncProvisioningProfilesMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.7021411Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.DownloadProvisioningProfilesMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.7216842Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.AutoProvisionMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.7372050Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.CreateAppleCertificateMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.7532333Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetProvisioningInformationMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.7672401Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.CheckProvisioningStatusMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.7817707Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.ImportCertificateMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.8043824Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetSigningIdentityTypeMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.9120739Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.StartDeviceLogMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.9276017Z: 01 16 2023 17:53:26Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.StopDeviceLogMessage: 01 16 2023 17:53:26Z
+    DateTime=2023-01-16T17:53:26.9686965Z: 01 16 2023 17:53:26Z
+Xamarin.VisualStudio.TastyPackage Information: 0 : Hooked up SDB tracing adapter: 01 16 2023 17:53:27Z
+    DateTime=2023-01-16T17:53:27.0253149Z: 01 16 2023 17:53:27Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Agent registered: IDBLocal1740312: 01 16 2023 17:53:27Z
+    DateTime=2023-01-16T17:53:27.0498732Z: 01 16 2023 17:53:27Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Successfully started IDB Local Agent: 01 16 2023 17:53:27Z
+    DateTime=2023-01-16T17:53:27.0498732Z: 01 16 2023 17:53:27Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Successfully started IDB Local Agent: 01 16 2023 17:53:27Z
+    DateTime=2023-01-16T17:53:27.0498732Z: 01 16 2023 17:53:27Z
+Xamarin.VisualStudio.TastyPackage Information: 0 : Initialization finished: 01 16 2023 17:53:27Z
+    DateTime=2023-01-16T17:53:27.0789226Z: 01 16 2023 17:53:27Z
+Xamarin.VisualStudio.IOS.XamarinIOSPackage Warning: 0 : Initializing Xamarin.VisualStudio.IOS.XamarinIOSPackage.: 01 16 2023 17:53:27Z
+    DateTime=2023-01-16T17:53:27.1203324Z: 01 16 2023 17:53:27Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Checking xma 17.4.0.312 installation...: 01 16 2023 17:53:27Z
+    DateTime=2023-01-16T17:53:27.1343434Z: 01 16 2023 17:53:27Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Checking xma 17.4.0.312 installation...: 01 16 2023 17:53:27Z
+    DateTime=2023-01-16T17:53:27.1343434Z: 01 16 2023 17:53:27Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 13.0...: 01 16 2023 17:53:28Z
+    DateTime=2023-01-16T17:53:28.1436394Z: 01 16 2023 17:53:28Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 13.1...: 01 16 2023 17:53:28Z
+    DateTime=2023-01-16T17:53:28.1631728Z: 01 16 2023 17:53:28Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 13.2...: 01 16 2023 17:53:28Z
+    DateTime=2023-01-16T17:53:28.1636846Z: 01 16 2023 17:53:28Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 13.3...: 01 16 2023 17:53:28Z
+    DateTime=2023-01-16T17:53:28.1647122Z: 01 16 2023 17:53:28Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 13.4...: 01 16 2023 17:53:28Z
+    DateTime=2023-01-16T17:53:28.1657422Z: 01 16 2023 17:53:28Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 13.5...: 01 16 2023 17:53:28Z
+    DateTime=2023-01-16T17:53:28.1673131Z: 01 16 2023 17:53:28Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 13.6...: 01 16 2023 17:53:28Z
+    DateTime=2023-01-16T17:53:28.1688668Z: 01 16 2023 17:53:28Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 13.7...: 01 16 2023 17:53:28Z
+    DateTime=2023-01-16T17:53:28.1698957Z: 01 16 2023 17:53:28Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 14.0...: 01 16 2023 17:53:28Z
+    DateTime=2023-01-16T17:53:28.1698957Z: 01 16 2023 17:53:28Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 14.1...: 01 16 2023 17:53:28Z
+    DateTime=2023-01-16T17:53:28.1714295Z: 01 16 2023 17:53:28Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 14.2...: 01 16 2023 17:53:28Z
+    DateTime=2023-01-16T17:53:28.1719393Z: 01 16 2023 17:53:28Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 14.3...: 01 16 2023 17:53:28Z
+    DateTime=2023-01-16T17:53:28.1719393Z: 01 16 2023 17:53:28Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: verify android sdk installed: 01 16 2023 17:53:29Z
+    DateTime=2023-01-16T17:53:29.3355071Z: 01 16 2023 17:53:29Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: removing android sdk errors: 01 16 2023 17:53:29Z
+    DateTime=2023-01-16T17:53:29.3385154Z: 01 16 2023 17:53:29Z
+Xamarin.VisualStudio.Devices.DeviceManager Error: 0 : lastDebugActiveProfile: : 01 16 2023 17:53:29Z
+    DateTime=2023-01-16T17:53:29.6974081Z: 01 16 2023 17:53:29Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 17:53:29Z
+    DateTime=2023-01-16T17:53:29.7194458Z: 01 16 2023 17:53:29Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : !SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 17:53:29Z
+    DateTime=2023-01-16T17:53:29.7194458Z: 01 16 2023 17:53:29Z
+Xamarin.VisualStudio.Android.Setup.AutoSdk Information: 0 : androidsdksetup: auto sdk check Android licenses: 01 16 2023 17:53:31Z
+    DateTime=2023-01-16T17:53:31.6426151Z: 01 16 2023 17:53:31Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: removing android sdk errors: 01 16 2023 17:59:17Z
+    DateTime=2023-01-16T17:59:17.7291157Z: 01 16 2023 17:59:17Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: verify android sdk installed: 01 16 2023 17:59:31Z
+    DateTime=2023-01-16T17:59:31.9386515Z: 01 16 2023 17:59:31Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: removing android sdk errors: 01 16 2023 17:59:31Z
+    DateTime=2023-01-16T17:59:31.9386515Z: 01 16 2023 17:59:31Z
+Xamarin.VisualStudio.Devices.DeviceManager Error: 0 : lastDebugActiveProfile: : 01 16 2023 17:59:31Z
+    DateTime=2023-01-16T17:59:31.9962186Z: 01 16 2023 17:59:31Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 17:59:31Z
+    DateTime=2023-01-16T17:59:31.9982221Z: 01 16 2023 17:59:31Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : !SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 17:59:31Z
+    DateTime=2023-01-16T17:59:31.9982221Z: 01 16 2023 17:59:31Z
+Xamarin.VisualStudio.Android.Setup.AutoSdk Information: 0 : androidsdksetup: auto sdk check Android licenses: 01 16 2023 17:59:33Z
+    DateTime=2023-01-16T17:59:33.9008223Z: 01 16 2023 17:59:33Z
+Xamarin.VisualStudio.Devices.DeviceManager Error: 0 : lastDebugActiveProfile: : 01 16 2023 18:02:02Z
+    DateTime=2023-01-16T18:02:02.2208309Z: 01 16 2023 18:02:02Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : SetSelectedDeviceAsync BEST Local Device: 01 16 2023 18:02:02Z
+    DateTime=2023-01-16T18:02:02.2365559Z: 01 16 2023 18:02:02Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : !SetSelectedDeviceAsync BEST Local Device: 01 16 2023 18:02:02Z
+    DateTime=2023-01-16T18:02:02.2365559Z: 01 16 2023 18:02:02Z
+Xamarin.VisualStudio.ProjectSystem.MultiTargetingProjectProperties Information: 0 : SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 19:13:06Z
+    DateTime=2023-01-16T19:13:06.2275408Z: 01 16 2023 19:13:06Z
+Xamarin.VisualStudio.ProjectSystem.MultiTargetingProjectProperties Information: 0 : !SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 19:13:06Z
+    DateTime=2023-01-16T19:13:06.2275408Z: 01 16 2023 19:13:06Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Closing the underlying Messaging connection...: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.1621952Z: 01 16 2023 22:32:19Z
+System.Net.Mqtt.Sdk.ServerPacketListener Warning: 0 : Server - Packet Channel observable sequence has been completed for client vs65372mattl: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.2695708Z: 01 16 2023 22:32:19Z
+System.Net.Mqtt.Sdk.MqttServerImpl Warning: 0 : Server - Packet observable sequence has been completed, hence closing the channel: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.2705786Z: 01 16 2023 22:32:19Z
+System.Net.Mqtt.Sdk.Bindings.PrivateChannel Warning: 0 : The underlying communication stream has completed sending bytes. The observable sequence will be completed and the channel will be disposed: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.2861798Z: 01 16 2023 22:32:19Z
+System.Net.Mqtt.Sdk.ClientPacketListener Warning: 0 : Client vs65372mattl - Packet Channel observable sequence has been completed: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.2874538Z: 01 16 2023 22:32:19Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : The underlying Messaging connection has been closed: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.3284528Z: 01 16 2023 22:32:19Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Disposing Messaging service references...: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.3299876Z: 01 16 2023 22:32:19Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Connecting to Local Broker...: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.3386687Z: 01 16 2023 22:32:19Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Connecting to Local Broker...: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.3386687Z: 01 16 2023 22:32:19Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Stopping: IDB.Local: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.3473524Z: 01 16 2023 22:32:19Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Agent Broker 17.4.0.312 is running: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.3592562Z: 01 16 2023 22:32:19Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Agent IDB.Local 17.4.0.312 is running: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.3592562Z: 01 16 2023 22:32:19Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Successfully connected to Local Broker: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.3603763Z: 01 16 2023 22:32:19Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Successfully connected to Local Broker: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.3603763Z: 01 16 2023 22:32:19Z
+System.Net.Mqtt.Sdk.ServerPacketListener Warning: 0 : Server - Packet Channel observable sequence has been completed for client private0f9e26b03d: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.4218225Z: 01 16 2023 22:32:19Z
+System.Net.Mqtt.Sdk.MqttServerImpl Warning: 0 : Server - Packet observable sequence has been completed, hence closing the channel: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.4218225Z: 01 16 2023 22:32:19Z
+System.Net.Mqtt.Sdk.Bindings.PrivateChannel Warning: 0 : The underlying communication stream has completed sending bytes. The observable sequence will be completed and the channel will be disposed: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.4218225Z: 01 16 2023 22:32:19Z
+System.Net.Mqtt.Sdk.ClientPacketListener Warning: 0 : Client private0f9e26b03d - Packet Channel observable sequence has been completed: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.4218225Z: 01 16 2023 22:32:19Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Stopping: Broker: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.4234578Z: 01 16 2023 22:32:19Z
+System.Net.Mqtt.Sdk.ServerPacketListener Warning: 0 : Server - Packet Channel observable sequence has been completed for client privatedfc4523979: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.4295215Z: 01 16 2023 22:32:19Z
+System.Net.Mqtt.Sdk.MqttServerImpl Warning: 0 : Server - Packet observable sequence has been completed, hence closing the channel: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.4295215Z: 01 16 2023 22:32:19Z
+System.Net.Mqtt.Sdk.Bindings.PrivateChannel Warning: 0 : The underlying communication stream has completed sending bytes. The observable sequence will be completed and the channel will be disposed: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.4295215Z: 01 16 2023 22:32:19Z
+System.Net.Mqtt.Sdk.ClientPacketListener Warning: 0 : Client privatedfc4523979 - Packet Channel observable sequence has been completed: 01 16 2023 22:32:19Z
+    DateTime=2023-01-16T22:32:19.4295215Z: 01 16 2023 22:32:19Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Disposing Messaging service references...: 01 16 2023 22:32:20Z
+    DateTime=2023-01-16T22:32:20.2483760Z: 01 16 2023 22:32:20Z

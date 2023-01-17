@@ -1,0 +1,1259 @@
+Xamarin Information: 0 : Xamarin - 17.4.0.312-d17-4+be7e8d1: 01 16 2023 22:38:43Z
+    DateTime=2023-01-16T22:38:43.6452944Z: 01 16 2023 22:38:43Z
+Xamarin Information: 0 : !Xamarin - 17.4.0.312-d17-4+be7e8d1: 01 16 2023 22:38:43Z
+    DateTime=2023-01-16T22:38:43.6462962Z: 01 16 2023 22:38:43Z
+Xamarin.VisualStudio.TastyPackage Information: 0 : Hooked up SDB tracing adapter: 01 16 2023 22:38:44Z
+    DateTime=2023-01-16T22:38:44.1601793Z: 01 16 2023 22:38:44Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkSetup Information: 0 : androidsdksetup: processing AndroidStarted event: 01 16 2023 22:38:44Z
+    DateTime=2023-01-16T22:38:44.2135409Z: 01 16 2023 22:38:44Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkSetup Information: 0 : androidsdksetup: verify mustCheckIfSolutionIsReady:True delay:00:00:02: 01 16 2023 22:38:44Z
+    DateTime=2023-01-16T22:38:44.2200546Z: 01 16 2023 22:38:44Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkSetup Information: 0 : androidsdksetup: verify canceled => solution is not ready: 01 16 2023 22:38:44Z
+    DateTime=2023-01-16T22:38:44.2200546Z: 01 16 2023 22:38:44Z
+Xamarin.VisualStudio.TastyPackage Information: 0 : Initialization finished: 01 16 2023 22:38:44Z
+    DateTime=2023-01-16T22:38:44.2320669Z: 01 16 2023 22:38:44Z
+Xamarin.VisualStudio.TastyPackage Information: 0 : Hooked up SDB tracing adapter: 01 16 2023 22:38:44Z
+    DateTime=2023-01-16T22:38:44.2355947Z: 01 16 2023 22:38:44Z
+Xamarin.VisualStudio.TastyPackage Information: 0 : Initialization finished: 01 16 2023 22:38:44Z
+    DateTime=2023-01-16T22:38:44.2566337Z: 01 16 2023 22:38:44Z
+Xamarin.VisualStudio.Android.XamarinAndroidPackage Warning: 0 : Initializing Xamarin.VisualStudio.Android.XamarinAndroidPackage: 01 16 2023 22:38:44Z
+    DateTime=2023-01-16T22:38:44.2576344Z: 01 16 2023 22:38:44Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Starting Broker in-process...: 01 16 2023 22:38:44Z
+    DateTime=2023-01-16T22:38:44.5503286Z: 01 16 2023 22:38:44Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Starting Broker in-process...: 01 16 2023 22:38:44Z
+    DateTime=2023-01-16T22:38:44.5513468Z: 01 16 2023 22:38:44Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Starting: Broker 17.4.0.312 ( PID = 61800 ): 01 16 2023 22:38:44Z
+    DateTime=2023-01-16T22:38:44.6015385Z: 01 16 2023 22:38:44Z
+Xamarin.Messaging.Server.MessagingServer Information: 0 : Starting Messaging Server...: 01 16 2023 22:38:44Z
+    DateTime=2023-01-16T22:38:44.6177295Z: 01 16 2023 22:38:44Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Connecting Agent to the Broker...: 01 16 2023 22:38:44Z
+    DateTime=2023-01-16T22:38:44.7486106Z: 01 16 2023 22:38:44Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Initializing Agent context...: 01 16 2023 22:38:45Z
+    DateTime=2023-01-16T22:38:45.3286882Z: 01 16 2023 22:38:45Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering Agent message handlers...: 01 16 2023 22:38:45Z
+    DateTime=2023-01-16T22:38:45.3336866Z: 01 16 2023 22:38:45Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering message handler for message type: Xamarin.Messaging.GetAgentVersionMessage: 01 16 2023 22:38:45Z
+    DateTime=2023-01-16T22:38:45.3382370Z: 01 16 2023 22:38:45Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering message handler for message type: Xamarin.Messaging.StopAgentMessage: 01 16 2023 22:38:45Z
+    DateTime=2023-01-16T22:38:45.5437016Z: 01 16 2023 22:38:45Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering message handler for message type: Xamarin.Messaging.RegisterAgentMessage: 01 16 2023 22:38:45Z
+    DateTime=2023-01-16T22:38:45.6314630Z: 01 16 2023 22:38:45Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering message handler for message type: Xamarin.Messaging.GetActiveClientsMessage: 01 16 2023 22:38:45Z
+    DateTime=2023-01-16T22:38:45.6696518Z: 01 16 2023 22:38:45Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering message handler for message type: Xamarin.Messaging.GetActiveAgentsMessage: 01 16 2023 22:38:45Z
+    DateTime=2023-01-16T22:38:45.6911898Z: 01 16 2023 22:38:45Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Successfully started Broker in-process: 01 16 2023 22:38:45Z
+    DateTime=2023-01-16T22:38:45.8041903Z: 01 16 2023 22:38:45Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Successfully started Broker in-process: 01 16 2023 22:38:45Z
+    DateTime=2023-01-16T22:38:45.8041903Z: 01 16 2023 22:38:45Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Connecting to Local Broker...: 01 16 2023 22:38:45Z
+    DateTime=2023-01-16T22:38:45.8148110Z: 01 16 2023 22:38:45Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Connecting to Local Broker...: 01 16 2023 22:38:45Z
+    DateTime=2023-01-16T22:38:45.8148110Z: 01 16 2023 22:38:45Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Agent registered: Broker1740312: 01 16 2023 22:38:45Z
+    DateTime=2023-01-16T22:38:45.9488041Z: 01 16 2023 22:38:45Z
+Xamarin.VisualStudio.TastyPackage Information: 0 : Hooked up SDB tracing adapter: 01 16 2023 22:38:45Z
+    DateTime=2023-01-16T22:38:45.9858733Z: 01 16 2023 22:38:45Z
+Xamarin.VisualStudio.TastyPackage Information: 0 : Initialization finished: 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.0140834Z: 01 16 2023 22:38:46Z
+Xamarin.VisualStudio.IOS.XamarinIOSPackage Warning: 0 : Initializing Xamarin.VisualStudio.IOS.XamarinIOSPackage.: 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.0206205Z: 01 16 2023 22:38:46Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Agent Broker 17.4.0.312 is running: 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.4476869Z: 01 16 2023 22:38:46Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Successfully connected to Local Broker: 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.4572530Z: 01 16 2023 22:38:46Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Successfully connected to Local Broker: 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.4572530Z: 01 16 2023 22:38:46Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Starting IDB Local Agent...: 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.6761947Z: 01 16 2023 22:38:46Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Starting IDB Local Agent...: 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.6761947Z: 01 16 2023 22:38:46Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Starting: IDB.Local 17.4.0.312 ( PID = 61800 ): 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.6812009Z: 01 16 2023 22:38:46Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Connecting Agent to the Broker...: 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.6812009Z: 01 16 2023 22:38:46Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Initializing Agent context...: 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.6832023Z: 01 16 2023 22:38:46Z
+Xamarin.VisualStudio.ProjectSystem.PackageServices Error: 0 : Value cannot be null.
+Parameter name: source
+System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at Xamarin.VisualStudio.ProjectSystem.PackageServices.<GetInstalledPackagesAsync>d__9.MoveNext() in D:\a\_work\1\s\src\Core\VisualStudio\ProjectSystem\PackageServices.cs:line 100: 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.7196157Z: 01 16 2023 22:38:46Z
+Xamarin.iOS.Windows.MobileDeviceConfigurator Information: 0 : Loading Apple Mobile Device support libraries...: 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.7784864Z: 01 16 2023 22:38:46Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering Agent message handlers...: 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.9003166Z: 01 16 2023 22:38:46Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.GetAgentVersionMessage: 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.9013230Z: 01 16 2023 22:38:46Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.StopAgentMessage: 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.9019741Z: 01 16 2023 22:38:46Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : IDB Local Registering Handlers: 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.9515717Z: 01 16 2023 22:38:46Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.ConfigureIDBLocalMessage: 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.9525715Z: 01 16 2023 22:38:46Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.DownloadDeveloperDiskImagesMessage: 01 16 2023 22:38:46Z
+    DateTime=2023-01-16T22:38:46.9806337Z: 01 16 2023 22:38:46Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetMobileDeviceConfigurationMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.0037146Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetDevicesMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.0172346Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.RefreshConnectedDevicesMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.0304020Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.DeployAppMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.0557348Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.LaunchAppMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.0719075Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.StopDebuggingAppMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.0984417Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.AddDeveloperAccountMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.3520494Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetDeveloperAccountsMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.3711678Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetSigningIdentitiesMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.3867142Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetProvisioningProfilesMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.3986982Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.RemoveDeveloperAccountMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.4132460Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.SyncSigningIdentitiesMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.4887452Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.SyncProvisioningProfilesMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.5133387Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.DownloadProvisioningProfilesMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.5298911Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.AutoProvisionMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.5540273Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.CreateAppleCertificateMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.5730944Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetProvisioningInformationMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.6321565Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.CheckProvisioningStatusMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.6652053Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.ImportCertificateMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.6807205Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetSigningIdentityTypeMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.7007506Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.StartDeviceLogMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.7172861Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.StopDeviceLogMessage: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.7438359Z: 01 16 2023 22:38:47Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Successfully started IDB Local Agent: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.7739913Z: 01 16 2023 22:38:47Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Successfully started IDB Local Agent: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.7739913Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Agent registered: IDBLocal1740312: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.7750058Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Checking xma 17.4.0.312 installation...: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.8381690Z: 01 16 2023 22:38:47Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Checking xma 17.4.0.312 installation...: 01 16 2023 22:38:47Z
+    DateTime=2023-01-16T22:38:47.8381690Z: 01 16 2023 22:38:47Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: verify android sdk installed: 01 16 2023 22:38:48Z
+    DateTime=2023-01-16T22:38:48.9127772Z: 01 16 2023 22:38:48Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 13.0...: 01 16 2023 22:38:48Z
+    DateTime=2023-01-16T22:38:48.9147893Z: 01 16 2023 22:38:48Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: removing android sdk errors: 01 16 2023 22:38:48Z
+    DateTime=2023-01-16T22:38:48.9172810Z: 01 16 2023 22:38:48Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 13.1...: 01 16 2023 22:38:48Z
+    DateTime=2023-01-16T22:38:48.9273037Z: 01 16 2023 22:38:48Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 13.2...: 01 16 2023 22:38:48Z
+    DateTime=2023-01-16T22:38:48.9273037Z: 01 16 2023 22:38:48Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 13.3...: 01 16 2023 22:38:48Z
+    DateTime=2023-01-16T22:38:48.9283024Z: 01 16 2023 22:38:48Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 13.4...: 01 16 2023 22:38:48Z
+    DateTime=2023-01-16T22:38:48.9292975Z: 01 16 2023 22:38:48Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 13.5...: 01 16 2023 22:38:48Z
+    DateTime=2023-01-16T22:38:48.9303048Z: 01 16 2023 22:38:48Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 13.6...: 01 16 2023 22:38:48Z
+    DateTime=2023-01-16T22:38:48.9303048Z: 01 16 2023 22:38:48Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 13.7...: 01 16 2023 22:38:48Z
+    DateTime=2023-01-16T22:38:48.9322995Z: 01 16 2023 22:38:48Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 14.0...: 01 16 2023 22:38:48Z
+    DateTime=2023-01-16T22:38:48.9332997Z: 01 16 2023 22:38:48Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 14.1...: 01 16 2023 22:38:48Z
+    DateTime=2023-01-16T22:38:48.9338056Z: 01 16 2023 22:38:48Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 14.2...: 01 16 2023 22:38:48Z
+    DateTime=2023-01-16T22:38:48.9338056Z: 01 16 2023 22:38:48Z
+Xamarin.Messaging.IDB.Local.DeveloperDiskImageService Information: 0 : Downloading Developer Disk Image for iOS version 14.3...: 01 16 2023 22:38:48Z
+    DateTime=2023-01-16T22:38:48.9348132Z: 01 16 2023 22:38:48Z
+Xamarin.VisualStudio.Devices.DeviceManager Error: 0 : lastDebugActiveProfile: : 01 16 2023 22:38:49Z
+    DateTime=2023-01-16T22:38:49.2084731Z: 01 16 2023 22:38:49Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 22:38:49Z
+    DateTime=2023-01-16T22:38:49.2230002Z: 01 16 2023 22:38:49Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : !SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 22:38:49Z
+    DateTime=2023-01-16T22:38:49.2230002Z: 01 16 2023 22:38:49Z
+Xamarin.VisualStudio.Android.Setup.AutoSdk Information: 0 : androidsdksetup: auto sdk check Android licenses: 01 16 2023 22:38:50Z
+    DateTime=2023-01-16T22:38:50.9486148Z: 01 16 2023 22:38:50Z
+Xamarin.VisualStudio.Devices.DeviceManager Error: 0 : lastDebugActiveProfile: : 01 16 2023 22:39:47Z
+    DateTime=2023-01-16T22:39:47.3783603Z: 01 16 2023 22:39:47Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : SetSelectedDeviceAsync BEST Local Device: 01 16 2023 22:39:47Z
+    DateTime=2023-01-16T22:39:47.3960315Z: 01 16 2023 22:39:47Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : !SetSelectedDeviceAsync BEST Local Device: 01 16 2023 22:39:47Z
+    DateTime=2023-01-16T22:39:47.3960315Z: 01 16 2023 22:39:47Z
+Xamarin.VisualStudio.ProjectSystem.MultiTargetingProjectProperties Information: 0 : SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 22:54:53Z
+    DateTime=2023-01-16T22:54:53.5623759Z: 01 16 2023 22:54:53Z
+Xamarin.VisualStudio.ProjectSystem.MultiTargetingProjectProperties Information: 0 : !SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 22:54:53Z
+    DateTime=2023-01-16T22:54:53.5623759Z: 01 16 2023 22:54:53Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: removing android sdk errors: 01 16 2023 22:55:21Z
+    DateTime=2023-01-16T22:55:21.3143007Z: 01 16 2023 22:55:21Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkSetup Information: 0 : androidsdksetup: processing ActiveProjectConfigurationChanged event: 01 16 2023 22:55:23Z
+    DateTime=2023-01-16T22:55:23.0269458Z: 01 16 2023 22:55:23Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkSetup Information: 0 : androidsdksetup: verify mustCheckIfSolutionIsReady:True delay:00:00:02: 01 16 2023 22:55:23Z
+    DateTime=2023-01-16T22:55:23.0269458Z: 01 16 2023 22:55:23Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: verify android sdk installed: 01 16 2023 22:55:25Z
+    DateTime=2023-01-16T22:55:25.0419067Z: 01 16 2023 22:55:25Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: removing android sdk errors: 01 16 2023 22:55:25Z
+    DateTime=2023-01-16T22:55:25.0419067Z: 01 16 2023 22:55:25Z
+Xamarin.VisualStudio.Android.Setup.AutoSdk Information: 0 : androidsdksetup: running auto sdk on all android projects: 01 16 2023 22:55:25Z
+    DateTime=2023-01-16T22:55:25.0474253Z: 01 16 2023 22:55:25Z
+Xamarin.VisualStudio.Devices.DeviceManager Error: 0 : lastDebugActiveProfile: : 01 16 2023 22:55:26Z
+    DateTime=2023-01-16T22:55:26.9690965Z: 01 16 2023 22:55:26Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 22:55:26Z
+    DateTime=2023-01-16T22:55:26.9700985Z: 01 16 2023 22:55:26Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : !SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 22:55:26Z
+    DateTime=2023-01-16T22:55:26.9700985Z: 01 16 2023 22:55:26Z
+Xamarin.VisualStudio.Devices.DeviceManager Error: 0 : lastDebugActiveProfile: : 01 16 2023 22:55:27Z
+    DateTime=2023-01-16T22:55:27.9037288Z: 01 16 2023 22:55:27Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : SetSelectedDeviceAsync BEST Local Device: 01 16 2023 22:55:27Z
+    DateTime=2023-01-16T22:55:27.9087296Z: 01 16 2023 22:55:27Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : !SetSelectedDeviceAsync BEST Local Device: 01 16 2023 22:55:27Z
+    DateTime=2023-01-16T22:55:27.9087296Z: 01 16 2023 22:55:27Z
+Xamarin.VisualStudio.Devices.DeviceManager Error: 0 : lastDebugActiveProfile: Windows Machine: 01 16 2023 22:55:27Z
+    DateTime=2023-01-16T22:55:27.9142654Z: 01 16 2023 22:55:27Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : SetSelectedDeviceAsync BEST Local Device: 01 16 2023 22:55:27Z
+    DateTime=2023-01-16T22:55:27.9192532Z: 01 16 2023 22:55:27Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : !SetSelectedDeviceAsync BEST Local Device: 01 16 2023 22:55:27Z
+    DateTime=2023-01-16T22:55:27.9192532Z: 01 16 2023 22:55:27Z
+Xamarin.VisualStudio.Devices.DeviceManager Error: 0 : lastDebugActiveProfile: : 01 16 2023 22:55:27Z
+    DateTime=2023-01-16T22:55:27.9909990Z: 01 16 2023 22:55:27Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 22:55:27Z
+    DateTime=2023-01-16T22:55:27.9945165Z: 01 16 2023 22:55:27Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : !SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 22:55:27Z
+    DateTime=2023-01-16T22:55:27.9945165Z: 01 16 2023 22:55:27Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: verify android sdk installed: 01 16 2023 22:55:48Z
+    DateTime=2023-01-16T22:55:48.5568013Z: 01 16 2023 22:55:48Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: removing android sdk errors: 01 16 2023 22:55:48Z
+    DateTime=2023-01-16T22:55:48.5568013Z: 01 16 2023 22:55:48Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: verify android sdk installed: 01 16 2023 22:55:48Z
+    DateTime=2023-01-16T22:55:48.5568013Z: 01 16 2023 22:55:48Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: removing android sdk errors: 01 16 2023 22:55:48Z
+    DateTime=2023-01-16T22:55:48.5568013Z: 01 16 2023 22:55:48Z
+Xamarin.VisualStudio.Android.Setup.AutoSdk Information: 0 : androidsdksetup: auto sdk check Android licenses: 01 16 2023 22:55:51Z
+    DateTime=2023-01-16T22:55:51.0552936Z: 01 16 2023 22:55:51Z
+Xamarin.VisualStudio.Devices.DeviceManager Error: 0 : lastDebugActiveProfile: Windows Machine: 01 16 2023 22:56:20Z
+    DateTime=2023-01-16T22:56:20.1608529Z: 01 16 2023 22:56:20Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from DisconnectedState to ConfiguringState on gray-space (192.168.101.215): 01 16 2023 22:56:23Z
+    DateTime=2023-01-16T22:56:23.9196172Z: 01 16 2023 22:56:23Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking host configuration for connecting to 'gray-space'...: 01 16 2023 22:56:24Z
+    DateTime=2023-01-16T22:56:24.0324190Z: 01 16 2023 22:56:24Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking host configuration for connecting to 'gray-space'...: 01 16 2023 22:56:24Z
+    DateTime=2023-01-16T22:56:24.0324190Z: 01 16 2023 22:56:24Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking SSH configuration...: 01 16 2023 22:56:24Z
+    DateTime=2023-01-16T22:56:24.2253227Z: 01 16 2023 22:56:24Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking SSH configuration...: 01 16 2023 22:56:24Z
+    DateTime=2023-01-16T22:56:24.2253227Z: 01 16 2023 22:56:24Z
+Xamarin.Messaging.Ssh.SshCommands Information: 0 : Current SSH Key File: C:\Users\mattl\AppData\Local\Xamarin\MonoTouch\id_xma.pub: 01 16 2023 22:56:24Z
+    DateTime=2023-01-16T22:56:24.2629151Z: 01 16 2023 22:56:24Z
+Xamarin.Messaging.Ssh.SshCommands Information: 0 : !Current SSH Key File: C:\Users\mattl\AppData\Local\Xamarin\MonoTouch\id_xma.pub: 01 16 2023 22:56:24Z
+    DateTime=2023-01-16T22:56:24.2629151Z: 01 16 2023 22:56:24Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking host configuration for connecting to 'gray-space'...: 01 16 2023 22:56:45Z
+    DateTime=2023-01-16T22:56:45.4904039Z: 01 16 2023 22:56:45Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking host configuration for connecting to 'gray-space'...: 01 16 2023 22:56:45Z
+    DateTime=2023-01-16T22:56:45.4904039Z: 01 16 2023 22:56:45Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConfiguringState to DisconnectingState on gray-space (192.168.101.215): 01 16 2023 22:56:45Z
+    DateTime=2023-01-16T22:56:45.5325930Z: 01 16 2023 22:56:45Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting disconnection from gray-space...: 01 16 2023 22:56:45Z
+    DateTime=2023-01-16T22:56:45.5442041Z: 01 16 2023 22:56:45Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting disconnection from gray-space...: 01 16 2023 22:56:45Z
+    DateTime=2023-01-16T22:56:45.5442041Z: 01 16 2023 22:56:45Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Disposing Messaging service references...: 01 16 2023 22:56:45Z
+    DateTime=2023-01-16T22:56:45.6437948Z: 01 16 2023 22:56:45Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from DisconnectingState to DisconnectedState on gray-space (192.168.101.215): 01 16 2023 22:56:45Z
+    DateTime=2023-01-16T22:56:45.6473789Z: 01 16 2023 22:56:45Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting disconnection from gray-space...: 01 16 2023 22:56:45Z
+    DateTime=2023-01-16T22:56:45.7054061Z: 01 16 2023 22:56:45Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting disconnection from gray-space...: 01 16 2023 22:56:45Z
+    DateTime=2023-01-16T22:56:45.7054061Z: 01 16 2023 22:56:45Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The connection to 'gray-space' has been finished: 01 16 2023 22:56:45Z
+    DateTime=2023-01-16T22:56:45.7237722Z: 01 16 2023 22:56:45Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The connection to 'gray-space' has been finished: 01 16 2023 22:56:45Z
+    DateTime=2023-01-16T22:56:45.7237722Z: 01 16 2023 22:56:45Z
+Xamarin.Messaging.Integration.State.ServerStateContext Error: 0 : An error occurred while trying to establish an SSH connection with SSH keys to '192.168.101.215:22'
+Xamarin.Messaging.Integration.MessagingConfigurationException: An error occurred while trying to establish an SSH connection with SSH keys to '192.168.101.215:22' ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at Renci.SshNet.Abstractions.SocketAbstraction.ConnectCore(Socket socket, IPEndPoint remoteEndpoint, TimeSpan connectTimeout, Boolean ownsSocket)
+   at Renci.SshNet.Connection.ConnectorBase.SocketConnect(String host, Int32 port, TimeSpan timeout)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.CreateAndConnectSession()
+   at Renci.SshNet.BaseClient.Connect()
+   at Xamarin.Messaging.Ssh.SshMessagingConnection.ConnectSsh(Boolean forwardTcpPort) in D:\a\_work\1\s\src\Xamarin.Messaging.Ssh\SshMessagingConnection.cs:line 157
+   at Xamarin.Messaging.Integration.State.ConfiguringState.<GetSshConnectionAsync>d__17.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Integration\State\ConfiguringState.cs:line 197
+   --- End of inner exception stack trace ---
+   at Xamarin.Messaging.Integration.State.ConfiguringState.<GetSshConnectionAsync>d__17.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Integration\State\ConfiguringState.cs:line 224
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.Messaging.Integration.State.ConfiguringState.<GetSshConnectionAsync>d__15.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Integration\State\ConfiguringState.cs:line 127
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.Messaging.Integration.State.ConfiguringState.<OnExecutingAsync>d__14.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Integration\State\ConfiguringState.cs:line 70: 01 16 2023 22:56:45Z
+    DateTime=2023-01-16T22:56:45.7797402Z: 01 16 2023 22:56:45Z
+Xamarin.Messaging.Integration.State.ServerStateContext Error: 0 : !An error occurred while trying to establish an SSH connection with SSH keys to '192.168.101.215:22': 01 16 2023 22:56:45Z
+    DateTime=2023-01-16T22:56:45.7797402Z: 01 16 2023 22:56:45Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from DisconnectedState to ConfiguringState on gray-space (192.168.101.215): 01 16 2023 22:57:59Z
+    DateTime=2023-01-16T22:57:59.9450276Z: 01 16 2023 22:57:59Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking host configuration for connecting to 'gray-space'...: 01 16 2023 22:58:00Z
+    DateTime=2023-01-16T22:58:00.0208041Z: 01 16 2023 22:58:00Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking host configuration for connecting to 'gray-space'...: 01 16 2023 22:58:00Z
+    DateTime=2023-01-16T22:58:00.0208041Z: 01 16 2023 22:58:00Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking SSH configuration...: 01 16 2023 22:58:00Z
+    DateTime=2023-01-16T22:58:00.1516398Z: 01 16 2023 22:58:00Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking SSH configuration...: 01 16 2023 22:58:00Z
+    DateTime=2023-01-16T22:58:00.1516398Z: 01 16 2023 22:58:00Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking host configuration for connecting to 'gray-space'...: 01 16 2023 22:58:21Z
+    DateTime=2023-01-16T22:58:21.2365002Z: 01 16 2023 22:58:21Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking host configuration for connecting to 'gray-space'...: 01 16 2023 22:58:21Z
+    DateTime=2023-01-16T22:58:21.2365002Z: 01 16 2023 22:58:21Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConfiguringState to DisconnectingState on gray-space (192.168.101.215): 01 16 2023 22:58:21Z
+    DateTime=2023-01-16T22:58:21.2671585Z: 01 16 2023 22:58:21Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting disconnection from gray-space...: 01 16 2023 22:58:21Z
+    DateTime=2023-01-16T22:58:21.3020757Z: 01 16 2023 22:58:21Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting disconnection from gray-space...: 01 16 2023 22:58:21Z
+    DateTime=2023-01-16T22:58:21.3020757Z: 01 16 2023 22:58:21Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting disconnection from gray-space...: 01 16 2023 22:58:21Z
+    DateTime=2023-01-16T22:58:21.4021292Z: 01 16 2023 22:58:21Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting disconnection from gray-space...: 01 16 2023 22:58:21Z
+    DateTime=2023-01-16T22:58:21.4021292Z: 01 16 2023 22:58:21Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from DisconnectingState to DisconnectedState on gray-space (192.168.101.215): 01 16 2023 22:58:21Z
+    DateTime=2023-01-16T22:58:21.4021292Z: 01 16 2023 22:58:21Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The connection to 'gray-space' has been finished: 01 16 2023 22:58:21Z
+    DateTime=2023-01-16T22:58:21.4360001Z: 01 16 2023 22:58:21Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The connection to 'gray-space' has been finished: 01 16 2023 22:58:21Z
+    DateTime=2023-01-16T22:58:21.4360001Z: 01 16 2023 22:58:21Z
+Xamarin.Messaging.Integration.State.ServerStateContext Error: 0 : An error occurred while trying to establish an SSH connection with SSH keys to '192.168.101.215:22'
+Xamarin.Messaging.Integration.MessagingConfigurationException: An error occurred while trying to establish an SSH connection with SSH keys to '192.168.101.215:22' ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at Renci.SshNet.Abstractions.SocketAbstraction.ConnectCore(Socket socket, IPEndPoint remoteEndpoint, TimeSpan connectTimeout, Boolean ownsSocket)
+   at Renci.SshNet.Connection.ConnectorBase.SocketConnect(String host, Int32 port, TimeSpan timeout)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.CreateAndConnectSession()
+   at Renci.SshNet.BaseClient.Connect()
+   at Xamarin.Messaging.Ssh.SshMessagingConnection.ConnectSsh(Boolean forwardTcpPort) in D:\a\_work\1\s\src\Xamarin.Messaging.Ssh\SshMessagingConnection.cs:line 157
+   at Xamarin.Messaging.Integration.State.ConfiguringState.<GetSshConnectionAsync>d__17.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Integration\State\ConfiguringState.cs:line 197
+   --- End of inner exception stack trace ---
+   at Xamarin.Messaging.Integration.State.ConfiguringState.<GetSshConnectionAsync>d__17.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Integration\State\ConfiguringState.cs:line 224
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.Messaging.Integration.State.ConfiguringState.<GetSshConnectionAsync>d__15.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Integration\State\ConfiguringState.cs:line 127
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.Messaging.Integration.State.ConfiguringState.<OnExecutingAsync>d__14.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Integration\State\ConfiguringState.cs:line 70: 01 16 2023 22:58:21Z
+    DateTime=2023-01-16T22:58:21.4855863Z: 01 16 2023 22:58:21Z
+Xamarin.Messaging.Integration.State.ServerStateContext Error: 0 : !An error occurred while trying to establish an SSH connection with SSH keys to '192.168.101.215:22': 01 16 2023 22:58:21Z
+    DateTime=2023-01-16T22:58:21.4855863Z: 01 16 2023 22:58:21Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from DisconnectedState to ConfiguringState on gray-space (192.168.101.215): 01 16 2023 22:58:36Z
+    DateTime=2023-01-16T22:58:36.1506180Z: 01 16 2023 22:58:36Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking host configuration for connecting to 'gray-space'...: 01 16 2023 22:58:36Z
+    DateTime=2023-01-16T22:58:36.2525057Z: 01 16 2023 22:58:36Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking host configuration for connecting to 'gray-space'...: 01 16 2023 22:58:36Z
+    DateTime=2023-01-16T22:58:36.2525057Z: 01 16 2023 22:58:36Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking SSH configuration...: 01 16 2023 22:58:36Z
+    DateTime=2023-01-16T22:58:36.3514023Z: 01 16 2023 22:58:36Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking SSH configuration...: 01 16 2023 22:58:36Z
+    DateTime=2023-01-16T22:58:36.3514023Z: 01 16 2023 22:58:36Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking host configuration for connecting to 'gray-space'...: 01 16 2023 22:58:57Z
+    DateTime=2023-01-16T22:58:57.4306628Z: 01 16 2023 22:58:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking host configuration for connecting to 'gray-space'...: 01 16 2023 22:58:57Z
+    DateTime=2023-01-16T22:58:57.4306628Z: 01 16 2023 22:58:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConfiguringState to DisconnectingState on gray-space (192.168.101.215): 01 16 2023 22:58:57Z
+    DateTime=2023-01-16T22:58:57.4533677Z: 01 16 2023 22:58:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting disconnection from gray-space...: 01 16 2023 22:58:57Z
+    DateTime=2023-01-16T22:58:57.4665595Z: 01 16 2023 22:58:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting disconnection from gray-space...: 01 16 2023 22:58:57Z
+    DateTime=2023-01-16T22:58:57.4665595Z: 01 16 2023 22:58:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting disconnection from gray-space...: 01 16 2023 22:58:57Z
+    DateTime=2023-01-16T22:58:57.5191596Z: 01 16 2023 22:58:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting disconnection from gray-space...: 01 16 2023 22:58:57Z
+    DateTime=2023-01-16T22:58:57.5191596Z: 01 16 2023 22:58:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from DisconnectingState to DisconnectedState on gray-space (192.168.101.215): 01 16 2023 22:58:57Z
+    DateTime=2023-01-16T22:58:57.5191596Z: 01 16 2023 22:58:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The connection to 'gray-space' has been finished: 01 16 2023 22:58:57Z
+    DateTime=2023-01-16T22:58:57.5493907Z: 01 16 2023 22:58:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The connection to 'gray-space' has been finished: 01 16 2023 22:58:57Z
+    DateTime=2023-01-16T22:58:57.5493907Z: 01 16 2023 22:58:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Error: 0 : An error occurred while trying to establish an SSH connection with SSH keys to '192.168.101.215:22'
+Xamarin.Messaging.Integration.MessagingConfigurationException: An error occurred while trying to establish an SSH connection with SSH keys to '192.168.101.215:22' ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at Renci.SshNet.Abstractions.SocketAbstraction.ConnectCore(Socket socket, IPEndPoint remoteEndpoint, TimeSpan connectTimeout, Boolean ownsSocket)
+   at Renci.SshNet.Connection.ConnectorBase.SocketConnect(String host, Int32 port, TimeSpan timeout)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.CreateAndConnectSession()
+   at Renci.SshNet.BaseClient.Connect()
+   at Xamarin.Messaging.Ssh.SshMessagingConnection.ConnectSsh(Boolean forwardTcpPort) in D:\a\_work\1\s\src\Xamarin.Messaging.Ssh\SshMessagingConnection.cs:line 157
+   at Xamarin.Messaging.Integration.State.ConfiguringState.<GetSshConnectionAsync>d__17.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Integration\State\ConfiguringState.cs:line 197
+   --- End of inner exception stack trace ---
+   at Xamarin.Messaging.Integration.State.ConfiguringState.<GetSshConnectionAsync>d__17.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Integration\State\ConfiguringState.cs:line 224
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.Messaging.Integration.State.ConfiguringState.<GetSshConnectionAsync>d__15.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Integration\State\ConfiguringState.cs:line 127
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.Messaging.Integration.State.ConfiguringState.<OnExecutingAsync>d__14.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Integration\State\ConfiguringState.cs:line 70: 01 16 2023 22:58:57Z
+    DateTime=2023-01-16T22:58:57.6173228Z: 01 16 2023 22:58:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Error: 0 : !An error occurred while trying to establish an SSH connection with SSH keys to '192.168.101.215:22': 01 16 2023 22:58:57Z
+    DateTime=2023-01-16T22:58:57.6173228Z: 01 16 2023 22:58:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from DisconnectedState to ConfiguringState on gray-space (192.168.101.210): 01 16 2023 23:01:56Z
+    DateTime=2023-01-16T23:01:56.9130438Z: 01 16 2023 23:01:56Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking host configuration for connecting to 'gray-space'...: 01 16 2023 23:01:56Z
+    DateTime=2023-01-16T23:01:56.9960077Z: 01 16 2023 23:01:56Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking host configuration for connecting to 'gray-space'...: 01 16 2023 23:01:56Z
+    DateTime=2023-01-16T23:01:56.9960077Z: 01 16 2023 23:01:56Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking SSH configuration...: 01 16 2023 23:01:57Z
+    DateTime=2023-01-16T23:01:57.0750385Z: 01 16 2023 23:01:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking SSH configuration...: 01 16 2023 23:01:57Z
+    DateTime=2023-01-16T23:01:57.0750385Z: 01 16 2023 23:01:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Initializing environment...: 01 16 2023 23:01:57Z
+    DateTime=2023-01-16T23:01:57.6051215Z: 01 16 2023 23:01:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Initializing environment...: 01 16 2023 23:01:57Z
+    DateTime=2023-01-16T23:01:57.6051215Z: 01 16 2023 23:01:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking available disk space...: 01 16 2023 23:01:57Z
+    DateTime=2023-01-16T23:01:57.9146972Z: 01 16 2023 23:01:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking available disk space...: 01 16 2023 23:01:57Z
+    DateTime=2023-01-16T23:01:57.9146972Z: 01 16 2023 23:01:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Mono installation...: 01 16 2023 23:01:57Z
+    DateTime=2023-01-16T23:01:57.9727176Z: 01 16 2023 23:01:57Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Mono installation...: 01 16 2023 23:01:57Z
+    DateTime=2023-01-16T23:01:57.9727176Z: 01 16 2023 23:01:57Z
+Xamarin.Messaging.Ssh.SshCommands Information: 0 : A valid Mono installation has been found at '/Library/Frameworks/Mono.framework/Versions/Current/bin/mono64': 01 16 2023 23:01:58Z
+    DateTime=2023-01-16T23:01:58.0406934Z: 01 16 2023 23:01:58Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking host configuration for connecting to 'gray-space'...: 01 16 2023 23:02:01Z
+    DateTime=2023-01-16T23:02:01.4627208Z: 01 16 2023 23:02:01Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking host configuration for connecting to 'gray-space'...: 01 16 2023 23:02:01Z
+    DateTime=2023-01-16T23:02:01.4627208Z: 01 16 2023 23:02:01Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConfiguringState to ConfiguredState on gray-space (192.168.101.210): 01 16 2023 23:02:01Z
+    DateTime=2023-01-16T23:02:01.5048063Z: 01 16 2023 23:02:01Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Host 'gray-space' is configured correctly: 01 16 2023 23:02:01Z
+    DateTime=2023-01-16T23:02:01.5287894Z: 01 16 2023 23:02:01Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Host 'gray-space' is configured correctly: 01 16 2023 23:02:01Z
+    DateTime=2023-01-16T23:02:01.5287894Z: 01 16 2023 23:02:01Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConfiguredState to ConnectingState on gray-space (192.168.101.210): 01 16 2023 23:02:01Z
+    DateTime=2023-01-16T23:02:01.5377881Z: 01 16 2023 23:02:01Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting connection to 'gray-space'...: 01 16 2023 23:02:01Z
+    DateTime=2023-01-16T23:02:01.5913501Z: 01 16 2023 23:02:01Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting connection to 'gray-space'...: 01 16 2023 23:02:01Z
+    DateTime=2023-01-16T23:02:01.5913501Z: 01 16 2023 23:02:01Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Checking Broker 17.4.0.312 installation...: 01 16 2023 23:02:02Z
+    DateTime=2023-01-16T23:02:02.1079291Z: 01 16 2023 23:02:02Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Checking Broker 17.4.0.312 installation...: 01 16 2023 23:02:02Z
+    DateTime=2023-01-16T23:02:02.1079291Z: 01 16 2023 23:02:02Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Starting Broker 17.4.0.312 in port 51659...: 01 16 2023 23:02:04Z
+    DateTime=2023-01-16T23:02:04.1227197Z: 01 16 2023 23:02:04Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Starting Broker 17.4.0.312 in port 51659...: 01 16 2023 23:02:04Z
+    DateTime=2023-01-16T23:02:04.1227197Z: 01 16 2023 23:02:04Z
+Xamarin.Messaging.Ssh.SshCommands Information: 0 : A valid Mono installation has been found at '/Library/Frameworks/Mono.framework/Versions/Current/bin/mono64': 01 16 2023 23:02:04Z
+    DateTime=2023-01-16T23:02:04.2441019Z: 01 16 2023 23:02:04Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Broker 17.4.0.312 started successfully: 01 16 2023 23:02:06Z
+    DateTime=2023-01-16T23:02:06.2209158Z: 01 16 2023 23:02:06Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Broker 17.4.0.312 started successfully: 01 16 2023 23:02:06Z
+    DateTime=2023-01-16T23:02:06.2209158Z: 01 16 2023 23:02:06Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Agent Broker 17.4.0.312 is running: 01 16 2023 23:02:06Z
+    DateTime=2023-01-16T23:02:06.4136984Z: 01 16 2023 23:02:06Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting connection to 'gray-space'...: 01 16 2023 23:02:06Z
+    DateTime=2023-01-16T23:02:06.4565380Z: 01 16 2023 23:02:06Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting connection to 'gray-space'...: 01 16 2023 23:02:06Z
+    DateTime=2023-01-16T23:02:06.4565380Z: 01 16 2023 23:02:06Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConnectingState to SshConnectedState on gray-space (192.168.101.210): 01 16 2023 23:02:06Z
+    DateTime=2023-01-16T23:02:06.4575751Z: 01 16 2023 23:02:06Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : SSH connection to 'gray-space' has been established...: 01 16 2023 23:02:06Z
+    DateTime=2023-01-16T23:02:06.4889981Z: 01 16 2023 23:02:06Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !SSH connection to 'gray-space' has been established...: 01 16 2023 23:02:06Z
+    DateTime=2023-01-16T23:02:06.4889981Z: 01 16 2023 23:02:06Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from SshConnectedState to AgentsStartingState on gray-space (192.168.101.210): 01 16 2023 23:02:06Z
+    DateTime=2023-01-16T23:02:06.5218460Z: 01 16 2023 23:02:06Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting registered Agents: IDB 17.4.0.312...: 01 16 2023 23:02:06Z
+    DateTime=2023-01-16T23:02:06.5628748Z: 01 16 2023 23:02:06Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting registered Agents: IDB 17.4.0.312...: 01 16 2023 23:02:06Z
+    DateTime=2023-01-16T23:02:06.5628748Z: 01 16 2023 23:02:06Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting IDB 17.4.0.312...: 01 16 2023 23:02:06Z
+    DateTime=2023-01-16T23:02:06.6131568Z: 01 16 2023 23:02:06Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting IDB 17.4.0.312...: 01 16 2023 23:02:06Z
+    DateTime=2023-01-16T23:02:06.6131568Z: 01 16 2023 23:02:06Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Checking IDB 17.4.0.312 installation...: 01 16 2023 23:02:06Z
+    DateTime=2023-01-16T23:02:06.6201644Z: 01 16 2023 23:02:06Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Checking IDB 17.4.0.312 installation...: 01 16 2023 23:02:06Z
+    DateTime=2023-01-16T23:02:06.6201644Z: 01 16 2023 23:02:06Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Starting Agent IDB 17.4.0.312...: 01 16 2023 23:02:12Z
+    DateTime=2023-01-16T23:02:12.5346647Z: 01 16 2023 23:02:12Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Starting IDB 17.4.0.312 in port 51659...: 01 16 2023 23:02:12Z
+    DateTime=2023-01-16T23:02:12.5346647Z: 01 16 2023 23:02:12Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Starting IDB 17.4.0.312 in port 51659...: 01 16 2023 23:02:12Z
+    DateTime=2023-01-16T23:02:12.5346647Z: 01 16 2023 23:02:12Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Agent IDB 17.4.0.312 is running: 01 16 2023 23:02:20Z
+    DateTime=2023-01-16T23:02:20.1078531Z: 01 16 2023 23:02:20Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : IDB 17.4.0.312 started successfully: 01 16 2023 23:02:20Z
+    DateTime=2023-01-16T23:02:20.3025038Z: 01 16 2023 23:02:20Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !IDB 17.4.0.312 started successfully: 01 16 2023 23:02:20Z
+    DateTime=2023-01-16T23:02:20.3025038Z: 01 16 2023 23:02:20Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Agent IDB 17.4.0.312 is running: 01 16 2023 23:02:20Z
+    DateTime=2023-01-16T23:02:20.3025038Z: 01 16 2023 23:02:20Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : IDB 17.4.0.312 started: 01 16 2023 23:02:20Z
+    DateTime=2023-01-16T23:02:20.3037524Z: 01 16 2023 23:02:20Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !IDB 17.4.0.312 started: 01 16 2023 23:02:20Z
+    DateTime=2023-01-16T23:02:20.3037524Z: 01 16 2023 23:02:20Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting registered Agents: ...: 01 16 2023 23:02:20Z
+    DateTime=2023-01-16T23:02:20.3347231Z: 01 16 2023 23:02:20Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting registered Agents: ...: 01 16 2023 23:02:20Z
+    DateTime=2023-01-16T23:02:20.3347231Z: 01 16 2023 23:02:20Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from AgentsStartingState to AgentsStartedState on gray-space (192.168.101.210): 01 16 2023 23:02:20Z
+    DateTime=2023-01-16T23:02:20.3483054Z: 01 16 2023 23:02:20Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The Agents have been started successfully: 01 16 2023 23:02:20Z
+    DateTime=2023-01-16T23:02:20.4397856Z: 01 16 2023 23:02:20Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The Agents have been started successfully: 01 16 2023 23:02:20Z
+    DateTime=2023-01-16T23:02:20.4397856Z: 01 16 2023 23:02:20Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from AgentsStartedState to ValidatingState on gray-space (192.168.101.210): 01 16 2023 23:02:20Z
+    DateTime=2023-01-16T23:02:20.4558981Z: 01 16 2023 23:02:20Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Performing server validations against 'gray-space'...: 01 16 2023 23:02:20Z
+    DateTime=2023-01-16T23:02:20.6233229Z: 01 16 2023 23:02:20Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Performing server validations against 'gray-space'...: 01 16 2023 23:02:20Z
+    DateTime=2023-01-16T23:02:20.6233229Z: 01 16 2023 23:02:20Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:02:21Z
+    DateTime=2023-01-16T23:02:21.9391972Z: 01 16 2023 23:02:21Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:02:21Z
+    DateTime=2023-01-16T23:02:21.9391972Z: 01 16 2023 23:02:21Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:02:21Z
+    DateTime=2023-01-16T23:02:21.9412297Z: 01 16 2023 23:02:21Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:02:21Z
+    DateTime=2023-01-16T23:02:21.9412297Z: 01 16 2023 23:02:21Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Sdk packs found: : 01 16 2023 23:02:22Z
+    DateTime=2023-01-16T23:02:22.7175649Z: 01 16 2023 23:02:22Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Sdk packs found: : 01 16 2023 23:02:22Z
+    DateTime=2023-01-16T23:02:22.7175649Z: 01 16 2023 23:02:22Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:02:22Z
+    DateTime=2023-01-16T23:02:22.7689833Z: 01 16 2023 23:02:22Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:02:22Z
+    DateTime=2023-01-16T23:02:22.7689833Z: 01 16 2023 23:02:22Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:02:22Z
+    DateTime=2023-01-16T23:02:22.7933825Z: 01 16 2023 23:02:22Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:02:22Z
+    DateTime=2023-01-16T23:02:22.7933825Z: 01 16 2023 23:02:22Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Initializing IDB environment...: 01 16 2023 23:02:22Z
+    DateTime=2023-01-16T23:02:22.8581989Z: 01 16 2023 23:02:22Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Initializing IDB environment...: 01 16 2023 23:02:22Z
+    DateTime=2023-01-16T23:02:22.8581989Z: 01 16 2023 23:02:22Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Creating OSVersionList.json file..: 01 16 2023 23:02:23Z
+    DateTime=2023-01-16T23:02:23.8001590Z: 01 16 2023 23:02:23Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:02:23Z
+    DateTime=2023-01-16T23:02:23.8067402Z: 01 16 2023 23:02:23Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : !Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:02:23Z
+    DateTime=2023-01-16T23:02:23.8067402Z: 01 16 2023 23:02:23Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Validating Mac operating system version compatibility...: 01 16 2023 23:02:23Z
+    DateTime=2023-01-16T23:02:23.8128877Z: 01 16 2023 23:02:23Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Validating Mac operating system version compatibility...: 01 16 2023 23:02:23Z
+    DateTime=2023-01-16T23:02:23.8128877Z: 01 16 2023 23:02:23Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode version compatibility...: 01 16 2023 23:02:24Z
+    DateTime=2023-01-16T23:02:24.1601373Z: 01 16 2023 23:02:24Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode version compatibility...: 01 16 2023 23:02:24Z
+    DateTime=2023-01-16T23:02:24.1601373Z: 01 16 2023 23:02:24Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Validating Xcode license state...: 01 16 2023 23:02:24Z
+    DateTime=2023-01-16T23:02:24.1787215Z: 01 16 2023 23:02:24Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Validating Xcode license state...: 01 16 2023 23:02:24Z
+    DateTime=2023-01-16T23:02:24.1787215Z: 01 16 2023 23:02:24Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Verifying installed Xcode tools...: 01 16 2023 23:02:24Z
+    DateTime=2023-01-16T23:02:24.5079421Z: 01 16 2023 23:02:24Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Verifying installed Xcode tools...: 01 16 2023 23:02:24Z
+    DateTime=2023-01-16T23:02:24.5079421Z: 01 16 2023 23:02:24Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode tool package 'MobileDeviceDevelopment.pkg' installation...: 01 16 2023 23:02:24Z
+    DateTime=2023-01-16T23:02:24.5726121Z: 01 16 2023 23:02:24Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode tool package 'MobileDeviceDevelopment.pkg' installation...: 01 16 2023 23:02:24Z
+    DateTime=2023-01-16T23:02:24.5726121Z: 01 16 2023 23:02:24Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Xcode tool package 'MobileDeviceDevelopment.pkg' is up to date: 01 16 2023 23:02:24Z
+    DateTime=2023-01-16T23:02:24.8699926Z: 01 16 2023 23:02:24Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Xcode tool package 'MobileDeviceDevelopment.pkg' is up to date: 01 16 2023 23:02:24Z
+    DateTime=2023-01-16T23:02:24.8699926Z: 01 16 2023 23:02:24Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode tool package 'CoreTypes.pkg' installation...: 01 16 2023 23:02:24Z
+    DateTime=2023-01-16T23:02:24.9048282Z: 01 16 2023 23:02:24Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode tool package 'CoreTypes.pkg' installation...: 01 16 2023 23:02:24Z
+    DateTime=2023-01-16T23:02:24.9048282Z: 01 16 2023 23:02:24Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Xcode tool package 'CoreTypes.pkg' is up to date: 01 16 2023 23:02:25Z
+    DateTime=2023-01-16T23:02:25.5367501Z: 01 16 2023 23:02:25Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Xcode tool package 'CoreTypes.pkg' is up to date: 01 16 2023 23:02:25Z
+    DateTime=2023-01-16T23:02:25.5367501Z: 01 16 2023 23:02:25Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode tool package 'MobileDevice.pkg' installation...: 01 16 2023 23:02:25Z
+    DateTime=2023-01-16T23:02:25.5512596Z: 01 16 2023 23:02:25Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode tool package 'MobileDevice.pkg' installation...: 01 16 2023 23:02:25Z
+    DateTime=2023-01-16T23:02:25.5512596Z: 01 16 2023 23:02:25Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Xcode tool package 'MobileDevice.pkg' is up to date: 01 16 2023 23:02:25Z
+    DateTime=2023-01-16T23:02:25.6949124Z: 01 16 2023 23:02:25Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Xcode tool package 'MobileDevice.pkg' is up to date: 01 16 2023 23:02:25Z
+    DateTime=2023-01-16T23:02:25.6949124Z: 01 16 2023 23:02:25Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode tool package 'XcodeSystemResources.pkg' installation...: 01 16 2023 23:02:25Z
+    DateTime=2023-01-16T23:02:25.7029236Z: 01 16 2023 23:02:25Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode tool package 'XcodeSystemResources.pkg' installation...: 01 16 2023 23:02:25Z
+    DateTime=2023-01-16T23:02:25.7029236Z: 01 16 2023 23:02:25Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Xcode tool package 'XcodeSystemResources.pkg' is up to date: 01 16 2023 23:02:25Z
+    DateTime=2023-01-16T23:02:25.8944178Z: 01 16 2023 23:02:25Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Xcode tool package 'XcodeSystemResources.pkg' is up to date: 01 16 2023 23:02:25Z
+    DateTime=2023-01-16T23:02:25.8944178Z: 01 16 2023 23:02:25Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking provisioning information...: 01 16 2023 23:02:25Z
+    DateTime=2023-01-16T23:02:25.9059851Z: 01 16 2023 23:02:25Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking provisioning information...: 01 16 2023 23:02:25Z
+    DateTime=2023-01-16T23:02:25.9059851Z: 01 16 2023 23:02:25Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Performing server validations against 'gray-space'...: 01 16 2023 23:02:28Z
+    DateTime=2023-01-16T23:02:28.0087884Z: 01 16 2023 23:02:28Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Performing server validations against 'gray-space'...: 01 16 2023 23:02:28Z
+    DateTime=2023-01-16T23:02:28.0087884Z: 01 16 2023 23:02:28Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ValidatingState to ConnectedState on gray-space (192.168.101.210): 01 16 2023 23:02:28Z
+    DateTime=2023-01-16T23:02:28.0932062Z: 01 16 2023 23:02:28Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Connection to 'gray-space' completed successfully: 01 16 2023 23:02:28Z
+    DateTime=2023-01-16T23:02:28.2626764Z: 01 16 2023 23:02:28Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Connection to 'gray-space' completed successfully: 01 16 2023 23:02:28Z
+    DateTime=2023-01-16T23:02:28.2626764Z: 01 16 2023 23:02:28Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:05:47Z
+    DateTime=2023-01-16T23:05:47.4629198Z: 01 16 2023 23:05:47Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:05:47Z
+    DateTime=2023-01-16T23:05:47.4629198Z: 01 16 2023 23:05:47Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:05:47Z
+    DateTime=2023-01-16T23:05:47.5886078Z: 01 16 2023 23:05:47Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:05:47Z
+    DateTime=2023-01-16T23:05:47.5886078Z: 01 16 2023 23:05:47Z
+Xamarin.Messaging.IDB.Local.GetMobileDeviceConfigurationMessageHandler Information: 0 : Apple Support - iTunes installed: 'True', Installation type: 'Store': 01 16 2023 23:05:47Z
+    DateTime=2023-01-16T23:05:47.8775263Z: 01 16 2023 23:05:47Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:06:25Z
+    DateTime=2023-01-16T23:06:25.8838462Z: 01 16 2023 23:06:25Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:06:25Z
+    DateTime=2023-01-16T23:06:25.8838462Z: 01 16 2023 23:06:25Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:06:25Z
+    DateTime=2023-01-16T23:06:25.9114353Z: 01 16 2023 23:06:25Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:06:25Z
+    DateTime=2023-01-16T23:06:25.9114353Z: 01 16 2023 23:06:25Z
+Xamarin.Messaging.IDB.Local.GetMobileDeviceConfigurationMessageHandler Information: 0 : Apple Support - iTunes installed: 'True', Installation type: 'Store': 01 16 2023 23:06:26Z
+    DateTime=2023-01-16T23:06:26.0031188Z: 01 16 2023 23:06:26Z
+Xamarin.VisualStudio.ProjectSystem.PackageServices Error: 0 : Value cannot be null.
+Parameter name: source
+System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at Xamarin.VisualStudio.ProjectSystem.PackageServices.<GetInstalledPackagesAsync>d__9.MoveNext() in D:\a\_work\1\s\src\Core\VisualStudio\ProjectSystem\PackageServices.cs:line 100: 01 16 2023 23:06:33Z
+    DateTime=2023-01-16T23:06:33.2740367Z: 01 16 2023 23:06:33Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConnectedState to AgentsCompletingState on gray-space (192.168.101.210): 01 16 2023 23:06:33Z
+    DateTime=2023-01-16T23:06:33.2800370Z: 01 16 2023 23:06:33Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from AgentsCompletingState to ConnectedState on gray-space (192.168.101.210): 01 16 2023 23:06:33Z
+    DateTime=2023-01-16T23:06:33.8804755Z: 01 16 2023 23:06:33Z
+Xamarin.VisualStudio.Apple.ProjectSystem.AppleProjectTracker Error: 0 : An error occurred with the build signature revalidation
+System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'Microsoft.VisualStudio.ProjectSystem.VS.Implementation.DisposingWrapper`1[[Microsoft.VisualStudio.ProjectSystem.VS.Implementation.Package.ProjectNode, Microsoft.VisualStudio.ProjectSystem.VS.Implementation, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a]]'.
+   at Microsoft.VisualStudio.ProjectSystem.VS.Implementation.DisposingWrapper`1.get_Value()
+   at Microsoft.VisualStudio.ProjectSystem.VS.Implementation.Package.ProjectNodeWrapper.get_ProjectNode()
+   at Microsoft.VisualStudio.ProjectSystem.VS.Implementation.Package.ProjectNodeWrapper.get_UnconfiguredProject()
+   at Microsoft.VisualStudio.ProjectSystem.Properties.IVsBrowseObjectContext.get_UnconfiguredProject()
+   at Xamarin.VisualStudio.ProjectSystem.CommonProjectSystemExtensions.<GetActiveConfiguredProjectAsync>d__10.MoveNext() in D:\a\_work\1\s\src\Core\Xamarin.VisualStudio.Interfaces\Extensions\CommonProjectSystemExtensions.cs:line 128
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.VisualStudio.ProjectSystem.CPSMsBuildProjectProperties.<GetTargetFrameworkAsync>d__14.MoveNext() in D:\a\_work\1\s\src\Core\VisualStudio\ProjectSystem\CPSMsBuildProjectProperties.cs:line 87
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.VisualStudio.IOS.AppleRemoteProjectProperties.<GetMessagingBuildSessionIdAsync>d__15.MoveNext() in D:\a\_work\1\s\src\Core\VisualStudio.IOS\PropertyProviders\AppleExecutableProjectProperties.cs:line 313
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.VisualStudio.IOS.AppleRemoteProjectProperties.<VerifyBuildSignatureAsync>d__18.MoveNext() in D:\a\_work\1\s\src\Core\VisualStudio.IOS\PropertyProviders\AppleExecutableProjectProperties.cs:line 364
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.VisualStudio.Apple.ProjectSystem.AppleProjectTracker.<RevalidateBuildSignatureAsync>d__55.MoveNext() in D:\a\_work\1\s\src\Core\VisualStudio.IOS\ProjectSystem\AppleProjectTracker.cs:line 379: 01 16 2023 23:06:34Z
+    DateTime=2023-01-16T23:06:34.0952081Z: 01 16 2023 23:06:34Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Connection to 'gray-space' completed successfully: 01 16 2023 23:06:34Z
+    DateTime=2023-01-16T23:06:34.0962072Z: 01 16 2023 23:06:34Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Connection to 'gray-space' completed successfully: 01 16 2023 23:06:34Z
+    DateTime=2023-01-16T23:06:34.0962072Z: 01 16 2023 23:06:34Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:06:34Z
+    DateTime=2023-01-16T23:06:34.1956804Z: 01 16 2023 23:06:34Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:06:34Z
+    DateTime=2023-01-16T23:06:34.1956804Z: 01 16 2023 23:06:34Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:06:34Z
+    DateTime=2023-01-16T23:06:34.1976806Z: 01 16 2023 23:06:34Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:06:34Z
+    DateTime=2023-01-16T23:06:34.1976806Z: 01 16 2023 23:06:34Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Sdk packs found: : 01 16 2023 23:06:35Z
+    DateTime=2023-01-16T23:06:35.0045580Z: 01 16 2023 23:06:35Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Sdk packs found: : 01 16 2023 23:06:35Z
+    DateTime=2023-01-16T23:06:35.0045580Z: 01 16 2023 23:06:35Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:06:35Z
+    DateTime=2023-01-16T23:06:35.0330723Z: 01 16 2023 23:06:35Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:06:35Z
+    DateTime=2023-01-16T23:06:35.0330723Z: 01 16 2023 23:06:35Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:06:35Z
+    DateTime=2023-01-16T23:06:35.0345976Z: 01 16 2023 23:06:35Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:06:35Z
+    DateTime=2023-01-16T23:06:35.0345976Z: 01 16 2023 23:06:35Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Creating OSVersionList.json file..: 01 16 2023 23:06:35Z
+    DateTime=2023-01-16T23:06:35.1122084Z: 01 16 2023 23:06:35Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:06:35Z
+    DateTime=2023-01-16T23:06:35.1132078Z: 01 16 2023 23:06:35Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : !Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:06:35Z
+    DateTime=2023-01-16T23:06:35.1132078Z: 01 16 2023 23:06:35Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode version compatibility...: 01 16 2023 23:06:35Z
+    DateTime=2023-01-16T23:06:35.1132078Z: 01 16 2023 23:06:35Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode version compatibility...: 01 16 2023 23:06:35Z
+    DateTime=2023-01-16T23:06:35.1132078Z: 01 16 2023 23:06:35Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: verify android sdk installed: 01 16 2023 23:06:37Z
+    DateTime=2023-01-16T23:06:37.3776438Z: 01 16 2023 23:06:37Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: removing android sdk errors: 01 16 2023 23:06:37Z
+    DateTime=2023-01-16T23:06:37.3776438Z: 01 16 2023 23:06:37Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : SetSelectedDeviceAsync BEST iPhone 14 iOS 16.2: 01 16 2023 23:06:37Z
+    DateTime=2023-01-16T23:06:37.4936167Z: 01 16 2023 23:06:37Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : !SetSelectedDeviceAsync BEST iPhone 14 iOS 16.2: 01 16 2023 23:06:37Z
+    DateTime=2023-01-16T23:06:37.4936167Z: 01 16 2023 23:06:37Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:06:37Z
+    DateTime=2023-01-16T23:06:37.4956225Z: 01 16 2023 23:06:37Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:06:37Z
+    DateTime=2023-01-16T23:06:37.4956225Z: 01 16 2023 23:06:37Z
+Xamarin.VisualStudio.Devices.DeviceManager Error: 0 : lastDebugActiveProfile: : 01 16 2023 23:06:37Z
+    DateTime=2023-01-16T23:06:37.4986240Z: 01 16 2023 23:06:37Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 23:06:37Z
+    DateTime=2023-01-16T23:06:37.4986240Z: 01 16 2023 23:06:37Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : !SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 23:06:37Z
+    DateTime=2023-01-16T23:06:37.4986240Z: 01 16 2023 23:06:37Z
+Xamarin.VisualStudio.Devices.DeviceManager Error: 0 : lastDebugActiveProfile: : 01 16 2023 23:06:38Z
+    DateTime=2023-01-16T23:06:38.9928485Z: 01 16 2023 23:06:38Z
+Xamarin.VisualStudio.Android.Setup.AutoSdk Information: 0 : androidsdksetup: auto sdk check Android licenses: 01 16 2023 23:06:38Z
+    DateTime=2023-01-16T23:06:38.9973630Z: 01 16 2023 23:06:38Z
+Xamarin.VisualStudio.Devices.DeviceManager Error: 0 : lastDebugActiveProfile: : 01 16 2023 23:06:43Z
+    DateTime=2023-01-16T23:06:43.4408782Z: 01 16 2023 23:06:43Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:06:52Z
+    DateTime=2023-01-16T23:06:52.9218667Z: 01 16 2023 23:06:52Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:06:52Z
+    DateTime=2023-01-16T23:06:52.9218667Z: 01 16 2023 23:06:52Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:06:52Z
+    DateTime=2023-01-16T23:06:52.9494426Z: 01 16 2023 23:06:52Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:06:52Z
+    DateTime=2023-01-16T23:06:52.9494426Z: 01 16 2023 23:06:52Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:06:58Z
+    DateTime=2023-01-16T23:06:58.1077318Z: 01 16 2023 23:06:58Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:06:58Z
+    DateTime=2023-01-16T23:06:58.1077318Z: 01 16 2023 23:06:58Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Agent Build 16.1.1477 is running: 01 16 2023 23:07:04Z
+    DateTime=2023-01-16T23:07:04.5767610Z: 01 16 2023 23:07:04Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:08:31Z
+    DateTime=2023-01-16T23:08:31.4755562Z: 01 16 2023 23:08:31Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:08:31Z
+    DateTime=2023-01-16T23:08:31.4755562Z: 01 16 2023 23:08:31Z
+Xamarin.VisualStudio.IOS.CommandHandlers.DebugCommandHandler Error: 0 : An error occurred while lauching Application for debugging
+Microsoft.Build.Exceptions.InvalidProjectFileException: The imported project "C:\Projects\Testing\MauiApp69\MauiApp69\CommonSettings.targets" was not found. Confirm that the expression in the Import declaration "CommonSettings.targets" is correct, and that the file exists on disk.  C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj
+   at Microsoft.Build.Shared.ProjectErrorUtilities.ThrowInvalidProject(String errorSubCategoryResourceName, IElementLocation elementLocation, String resourceName, Object[] args)
+   at Microsoft.Build.Evaluation.Evaluator`4.ExpandAndLoadImportsFromUnescapedImportExpression(String directoryOfImportingFile, ProjectImportElement importElement, String unescapedExpression, Boolean throwOnFileNotExistsError, List`1& imports)
+   at Microsoft.Build.Evaluation.Evaluator`4.ExpandAndLoadImportsFromUnescapedImportExpressionConditioned(String directoryOfImportingFile, ProjectImportElement importElement, List`1& projects, SdkResult& sdkResult)
+   at Microsoft.Build.Evaluation.Evaluator`4.ExpandAndLoadImports(String directoryOfImportingFile, ProjectImportElement importElement, SdkResult& sdkResult)
+   at Microsoft.Build.Evaluation.Evaluator`4.EvaluateImportElement(String directoryOfImportingFile, ProjectImportElement importElement)
+   at Microsoft.Build.Evaluation.Evaluator`4.PerformDepthFirstPass(ProjectRootElement currentProjectOrImport)
+   at Microsoft.Build.Evaluation.Evaluator`4.Evaluate()
+   at Microsoft.Build.Evaluation.Evaluator`4.Evaluate(IEvaluatorData`4 data, Project project, ProjectRootElement root, ProjectLoadSettings loadSettings, Int32 maxNodeCount, PropertyDictionary`1 environmentProperties, ILoggingService loggingService, IItemFactory`2 itemFactory, IToolsetProvider toolsetProvider, ProjectRootElementCacheBase projectRootElementCache, BuildEventContext buildEventContext, ISdkResolverService sdkResolverService, Int32 submissionId, EvaluationContext evaluationContext, Boolean interactive)
+   at Microsoft.Build.Evaluation.Project.ProjectImpl.Reevaluate(ILoggingService loggingServiceForEvaluation, ProjectLoadSettings loadSettings, EvaluationContext evaluationContext)
+   at Microsoft.Build.Evaluation.Project.ProjectImpl.ReevaluateIfNecessary(ILoggingService loggingServiceForEvaluation, ProjectLoadSettings loadSettings, EvaluationContext evaluationContext)
+   at Microsoft.Build.Evaluation.Project.ProjectImpl.ReevaluateIfNecessary(EvaluationContext evaluationContext)
+   at Microsoft.Build.Evaluation.Project.ProjectImpl.Initialize(IDictionary`2 globalProperties, String toolsVersion, String subToolsetVersion, ProjectLoadSettings loadSettings, EvaluationContext evaluationContext)
+   at Microsoft.Build.Evaluation.Project..ctor(String projectFile, IDictionary`2 globalProperties, String toolsVersion, String subToolsetVersion, ProjectCollection projectCollection, ProjectLoadSettings loadSettings, EvaluationContext evaluationContext, IDirectoryCacheFactory directoryCacheFactory)
+   at Xamarin.VisualStudio.IOS.AssetCatalog.AssetCatalogManager.CreateBuildProject() in D:\a\_work\1\s\src\Core\VisualStudio.IOS.AssetCatalog\AssetCatalogManager.cs:line 587
+   at Xamarin.VisualStudio.IOS.AssetCatalog.AssetCatalogManager.HasOnDemandResources() in D:\a\_work\1\s\src\Core\VisualStudio.IOS.AssetCatalog\AssetCatalogManager.cs:line 252
+   at Xamarin.VisualStudio.IOS.MonoTouchRunSessionInfo.<InitializeInstanceAsync>d__5.MoveNext() in D:\a\_work\1\s\src\Core\VisualStudio.IOS\Debugging\MonoTouchRunSessionInfo.cs:line 66
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.VisualStudio.IOS.MonoTouchRunSessionInfo.<CreateNewInstanceAsync>d__4.MoveNext() in D:\a\_work\1\s\src\Core\VisualStudio.IOS\Debugging\MonoTouchRunSessionInfo.cs:line 33
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.VisualStudio.IOS.CommandHandlers.RunCommandHandlerBase.<GetRunSessionInfoAsync>d__25.MoveNext() in D:\a\_work\1\s\src\Core\VisualStudio.IOS\CommandHandlers\RunCommandHandlerBase.cs:line 282
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.VisualStudio.IOS.CommandHandlers.DebugCommandHandler.<CreateDebuggerStartInfoAsync>d__8.MoveNext() in D:\a\_work\1\s\src\Core\VisualStudio.IOS\CommandHandlers\DebugCommandHandler.cs:line 158
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.VisualStudio.IOS.CommandHandlers.DebugCommandHandler.<DebugApplicationAsync>d__7.MoveNext() in D:\a\_work\1\s\src\Core\VisualStudio.IOS\CommandHandlers\DebugCommandHandler.cs:line 114: 01 16 2023 23:08:33Z
+    DateTime=2023-01-16T23:08:33.1017925Z: 01 16 2023 23:08:33Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:10:14Z
+    DateTime=2023-01-16T23:10:14.2795954Z: 01 16 2023 23:10:14Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:10:14Z
+    DateTime=2023-01-16T23:10:14.2795954Z: 01 16 2023 23:10:14Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:10:14Z
+    DateTime=2023-01-16T23:10:14.3207321Z: 01 16 2023 23:10:14Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:10:14Z
+    DateTime=2023-01-16T23:10:14.3207321Z: 01 16 2023 23:10:14Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:10:14Z
+    DateTime=2023-01-16T23:10:14.3960050Z: 01 16 2023 23:10:14Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:10:14Z
+    DateTime=2023-01-16T23:10:14.3960050Z: 01 16 2023 23:10:14Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:10:36Z
+    DateTime=2023-01-16T23:10:36.2838871Z: 01 16 2023 23:10:36Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:10:36Z
+    DateTime=2023-01-16T23:10:36.2838871Z: 01 16 2023 23:10:36Z
+Xamarin.VisualStudio.IOS.CommandHandlers.DebugCommandHandler Error: 0 : An error occurred while lauching Application for debugging
+Microsoft.Build.Exceptions.InvalidProjectFileException: The imported project "C:\Projects\Testing\MauiApp69\MauiApp69\CommonSettings.targets" was not found. Confirm that the expression in the Import declaration "CommonSettings.targets" is correct, and that the file exists on disk.  C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj
+   at Microsoft.Build.Shared.ProjectErrorUtilities.ThrowInvalidProject(String errorSubCategoryResourceName, IElementLocation elementLocation, String resourceName, Object[] args)
+   at Microsoft.Build.Evaluation.Evaluator`4.ExpandAndLoadImportsFromUnescapedImportExpression(String directoryOfImportingFile, ProjectImportElement importElement, String unescapedExpression, Boolean throwOnFileNotExistsError, List`1& imports)
+   at Microsoft.Build.Evaluation.Evaluator`4.ExpandAndLoadImportsFromUnescapedImportExpressionConditioned(String directoryOfImportingFile, ProjectImportElement importElement, List`1& projects, SdkResult& sdkResult)
+   at Microsoft.Build.Evaluation.Evaluator`4.ExpandAndLoadImports(String directoryOfImportingFile, ProjectImportElement importElement, SdkResult& sdkResult)
+   at Microsoft.Build.Evaluation.Evaluator`4.EvaluateImportElement(String directoryOfImportingFile, ProjectImportElement importElement)
+   at Microsoft.Build.Evaluation.Evaluator`4.PerformDepthFirstPass(ProjectRootElement currentProjectOrImport)
+   at Microsoft.Build.Evaluation.Evaluator`4.Evaluate()
+   at Microsoft.Build.Evaluation.Evaluator`4.Evaluate(IEvaluatorData`4 data, Project project, ProjectRootElement root, ProjectLoadSettings loadSettings, Int32 maxNodeCount, PropertyDictionary`1 environmentProperties, ILoggingService loggingService, IItemFactory`2 itemFactory, IToolsetProvider toolsetProvider, ProjectRootElementCacheBase projectRootElementCache, BuildEventContext buildEventContext, ISdkResolverService sdkResolverService, Int32 submissionId, EvaluationContext evaluationContext, Boolean interactive)
+   at Microsoft.Build.Evaluation.Project.ProjectImpl.Reevaluate(ILoggingService loggingServiceForEvaluation, ProjectLoadSettings loadSettings, EvaluationContext evaluationContext)
+   at Microsoft.Build.Evaluation.Project.ProjectImpl.ReevaluateIfNecessary(ILoggingService loggingServiceForEvaluation, ProjectLoadSettings loadSettings, EvaluationContext evaluationContext)
+   at Microsoft.Build.Evaluation.Project.ProjectImpl.ReevaluateIfNecessary(EvaluationContext evaluationContext)
+   at Microsoft.Build.Evaluation.Project.ProjectImpl.Initialize(IDictionary`2 globalProperties, String toolsVersion, String subToolsetVersion, ProjectLoadSettings loadSettings, EvaluationContext evaluationContext)
+   at Microsoft.Build.Evaluation.Project..ctor(String projectFile, IDictionary`2 globalProperties, String toolsVersion, String subToolsetVersion, ProjectCollection projectCollection, ProjectLoadSettings loadSettings, EvaluationContext evaluationContext, IDirectoryCacheFactory directoryCacheFactory)
+   at Xamarin.VisualStudio.IOS.AssetCatalog.AssetCatalogManager.CreateBuildProject() in D:\a\_work\1\s\src\Core\VisualStudio.IOS.AssetCatalog\AssetCatalogManager.cs:line 587
+   at Xamarin.VisualStudio.IOS.AssetCatalog.AssetCatalogManager.HasOnDemandResources() in D:\a\_work\1\s\src\Core\VisualStudio.IOS.AssetCatalog\AssetCatalogManager.cs:line 252
+   at Xamarin.VisualStudio.IOS.MonoTouchRunSessionInfo.<InitializeInstanceAsync>d__5.MoveNext() in D:\a\_work\1\s\src\Core\VisualStudio.IOS\Debugging\MonoTouchRunSessionInfo.cs:line 66
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.VisualStudio.IOS.MonoTouchRunSessionInfo.<CreateNewInstanceAsync>d__4.MoveNext() in D:\a\_work\1\s\src\Core\VisualStudio.IOS\Debugging\MonoTouchRunSessionInfo.cs:line 33
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.VisualStudio.IOS.CommandHandlers.RunCommandHandlerBase.<GetRunSessionInfoAsync>d__25.MoveNext() in D:\a\_work\1\s\src\Core\VisualStudio.IOS\CommandHandlers\RunCommandHandlerBase.cs:line 282
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.VisualStudio.IOS.CommandHandlers.DebugCommandHandler.<CreateDebuggerStartInfoAsync>d__8.MoveNext() in D:\a\_work\1\s\src\Core\VisualStudio.IOS\CommandHandlers\DebugCommandHandler.cs:line 158
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.VisualStudio.IOS.CommandHandlers.DebugCommandHandler.<DebugApplicationAsync>d__7.MoveNext() in D:\a\_work\1\s\src\Core\VisualStudio.IOS\CommandHandlers\DebugCommandHandler.cs:line 114: 01 16 2023 23:10:36Z
+    DateTime=2023-01-16T23:10:36.7903366Z: 01 16 2023 23:10:36Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConnectedState to AgentsCompletingState on gray-space (192.168.101.210): 01 16 2023 23:11:51Z
+    DateTime=2023-01-16T23:11:51.6661284Z: 01 16 2023 23:11:51Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Pair to Mac connection is in progress, so the build will be performed offline. To do a full build please try again after the connection finishes.: 01 16 2023 23:11:51Z
+    DateTime=2023-01-16T23:11:51.7522641Z: 01 16 2023 23:11:51Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Pair to Mac connection is in progress, so the build will be performed offline. To do a full build please try again after the connection finishes.: 01 16 2023 23:11:51Z
+    DateTime=2023-01-16T23:11:51.7522641Z: 01 16 2023 23:11:51Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, ContinueOnDisconnected: True, ServerAddress: : 01 16 2023 23:11:51Z
+    DateTime=2023-01-16T23:11:51.7522641Z: 01 16 2023 23:11:51Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, ContinueOnDisconnected: True, ServerAddress: : 01 16 2023 23:11:51Z
+    DateTime=2023-01-16T23:11:51.7522641Z: 01 16 2023 23:11:51Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Pair to Mac connection is in progress, so the build will be performed offline. To do a full build please try again after the connection finishes.: 01 16 2023 23:11:51Z
+    DateTime=2023-01-16T23:11:51.8632136Z: 01 16 2023 23:11:51Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Pair to Mac connection is in progress, so the build will be performed offline. To do a full build please try again after the connection finishes.: 01 16 2023 23:11:51Z
+    DateTime=2023-01-16T23:11:51.8632136Z: 01 16 2023 23:11:51Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, ContinueOnDisconnected: True, ServerAddress: : 01 16 2023 23:11:51Z
+    DateTime=2023-01-16T23:11:51.8632136Z: 01 16 2023 23:11:51Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, ContinueOnDisconnected: True, ServerAddress: : 01 16 2023 23:11:51Z
+    DateTime=2023-01-16T23:11:51.8632136Z: 01 16 2023 23:11:51Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from AgentsCompletingState to ConnectedState on gray-space (192.168.101.210): 01 16 2023 23:11:52Z
+    DateTime=2023-01-16T23:11:52.2198504Z: 01 16 2023 23:11:52Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Connection to 'gray-space' completed successfully: 01 16 2023 23:11:52Z
+    DateTime=2023-01-16T23:11:52.2691326Z: 01 16 2023 23:11:52Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Connection to 'gray-space' completed successfully: 01 16 2023 23:11:52Z
+    DateTime=2023-01-16T23:11:52.2691326Z: 01 16 2023 23:11:52Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConnectedState to AgentsCompletingState on gray-space (192.168.101.210): 01 16 2023 23:11:52Z
+    DateTime=2023-01-16T23:11:52.2721861Z: 01 16 2023 23:11:52Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from AgentsCompletingState to ConnectedState on gray-space (192.168.101.210): 01 16 2023 23:11:52Z
+    DateTime=2023-01-16T23:11:52.3364447Z: 01 16 2023 23:11:52Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Connection to 'gray-space' completed successfully: 01 16 2023 23:11:52Z
+    DateTime=2023-01-16T23:11:52.3560986Z: 01 16 2023 23:11:52Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Connection to 'gray-space' completed successfully: 01 16 2023 23:11:52Z
+    DateTime=2023-01-16T23:11:52.3560986Z: 01 16 2023 23:11:52Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:11:52Z
+    DateTime=2023-01-16T23:11:52.9639183Z: 01 16 2023 23:11:52Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:11:52Z
+    DateTime=2023-01-16T23:11:52.9649293Z: 01 16 2023 23:11:52Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:11:52Z
+    DateTime=2023-01-16T23:11:52.9649293Z: 01 16 2023 23:11:52Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:11:52Z
+    DateTime=2023-01-16T23:11:52.9649293Z: 01 16 2023 23:11:52Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Sdk packs found: : 01 16 2023 23:11:53Z
+    DateTime=2023-01-16T23:11:53.1445058Z: 01 16 2023 23:11:53Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Sdk packs found: : 01 16 2023 23:11:53Z
+    DateTime=2023-01-16T23:11:53.1445058Z: 01 16 2023 23:11:53Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:11:53Z
+    DateTime=2023-01-16T23:11:53.1660227Z: 01 16 2023 23:11:53Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:11:53Z
+    DateTime=2023-01-16T23:11:53.1660227Z: 01 16 2023 23:11:53Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:11:53Z
+    DateTime=2023-01-16T23:11:53.1680274Z: 01 16 2023 23:11:53Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:11:53Z
+    DateTime=2023-01-16T23:11:53.1680274Z: 01 16 2023 23:11:53Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Creating OSVersionList.json file..: 01 16 2023 23:11:53Z
+    DateTime=2023-01-16T23:11:53.2257665Z: 01 16 2023 23:11:53Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:11:53Z
+    DateTime=2023-01-16T23:11:53.2257665Z: 01 16 2023 23:11:53Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : !Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:11:53Z
+    DateTime=2023-01-16T23:11:53.2257665Z: 01 16 2023 23:11:53Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode version compatibility...: 01 16 2023 23:11:53Z
+    DateTime=2023-01-16T23:11:53.2257665Z: 01 16 2023 23:11:53Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode version compatibility...: 01 16 2023 23:11:53Z
+    DateTime=2023-01-16T23:11:53.2257665Z: 01 16 2023 23:11:53Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:11:53Z
+    DateTime=2023-01-16T23:11:53.9758665Z: 01 16 2023 23:11:53Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:11:53Z
+    DateTime=2023-01-16T23:11:53.9758665Z: 01 16 2023 23:11:53Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:11:53Z
+    DateTime=2023-01-16T23:11:53.9758665Z: 01 16 2023 23:11:53Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:11:53Z
+    DateTime=2023-01-16T23:11:53.9758665Z: 01 16 2023 23:11:53Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Sdk packs found: : 01 16 2023 23:11:53Z
+    DateTime=2023-01-16T23:11:53.9933880Z: 01 16 2023 23:11:53Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Sdk packs found: : 01 16 2023 23:11:53Z
+    DateTime=2023-01-16T23:11:53.9933880Z: 01 16 2023 23:11:53Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:11:54Z
+    DateTime=2023-01-16T23:11:54.0109430Z: 01 16 2023 23:11:54Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:11:54Z
+    DateTime=2023-01-16T23:11:54.0109430Z: 01 16 2023 23:11:54Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:11:54Z
+    DateTime=2023-01-16T23:11:54.0119580Z: 01 16 2023 23:11:54Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:11:54Z
+    DateTime=2023-01-16T23:11:54.0119580Z: 01 16 2023 23:11:54Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Creating OSVersionList.json file..: 01 16 2023 23:11:54Z
+    DateTime=2023-01-16T23:11:54.1689884Z: 01 16 2023 23:11:54Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:11:54Z
+    DateTime=2023-01-16T23:11:54.1704980Z: 01 16 2023 23:11:54Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : !Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:11:54Z
+    DateTime=2023-01-16T23:11:54.1704980Z: 01 16 2023 23:11:54Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode version compatibility...: 01 16 2023 23:11:54Z
+    DateTime=2023-01-16T23:11:54.1704980Z: 01 16 2023 23:11:54Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode version compatibility...: 01 16 2023 23:11:54Z
+    DateTime=2023-01-16T23:11:54.1704980Z: 01 16 2023 23:11:54Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:11:54Z
+    DateTime=2023-01-16T23:11:54.9473306Z: 01 16 2023 23:11:54Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:11:54Z
+    DateTime=2023-01-16T23:11:54.9483309Z: 01 16 2023 23:11:54Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:12:33Z
+    DateTime=2023-01-16T23:12:33.1025155Z: 01 16 2023 23:12:33Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:12:33Z
+    DateTime=2023-01-16T23:12:33.1025155Z: 01 16 2023 23:12:33Z
+Xamarin.VisualStudio.Progress.ProgressReportService Information: 0 : Starting Simulator to launch App...: 01 16 2023 23:12:37Z
+    DateTime=2023-01-16T23:12:37.2519992Z: 01 16 2023 23:12:37Z
+Xamarin.VisualStudio.Progress.ProgressReportService Information: 0 : !Starting Simulator to launch App...: 01 16 2023 23:12:37Z
+    DateTime=2023-01-16T23:12:37.2519992Z: 01 16 2023 23:12:37Z
+Xamarin.VisualStudio.Progress.ProgressReportService Information: 0 : The Simulator has been started to launch App...: 01 16 2023 23:12:37Z
+    DateTime=2023-01-16T23:12:37.5993654Z: 01 16 2023 23:12:37Z
+Xamarin.VisualStudio.Progress.ProgressReportService Information: 0 : !The Simulator has been started to launch App...: 01 16 2023 23:12:37Z
+    DateTime=2023-01-16T23:12:37.5993654Z: 01 16 2023 23:12:37Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConnectedState to AgentsCompletingState on gray-space (192.168.101.210): 01 16 2023 23:13:10Z
+    DateTime=2023-01-16T23:13:10.4472877Z: 01 16 2023 23:13:10Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from AgentsCompletingState to ConnectedState on gray-space (192.168.101.210): 01 16 2023 23:13:10Z
+    DateTime=2023-01-16T23:13:10.8194710Z: 01 16 2023 23:13:10Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Connection to 'gray-space' completed successfully: 01 16 2023 23:13:11Z
+    DateTime=2023-01-16T23:13:11.1607911Z: 01 16 2023 23:13:11Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Connection to 'gray-space' completed successfully: 01 16 2023 23:13:11Z
+    DateTime=2023-01-16T23:13:11.1607911Z: 01 16 2023 23:13:11Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConnectedState to AgentsCompletingState on gray-space (192.168.101.210): 01 16 2023 23:13:11Z
+    DateTime=2023-01-16T23:13:11.1703046Z: 01 16 2023 23:13:11Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from AgentsCompletingState to ConnectedState on gray-space (192.168.101.210): 01 16 2023 23:13:11Z
+    DateTime=2023-01-16T23:13:11.1903487Z: 01 16 2023 23:13:11Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Connection to 'gray-space' completed successfully: 01 16 2023 23:13:11Z
+    DateTime=2023-01-16T23:13:11.2048778Z: 01 16 2023 23:13:11Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Connection to 'gray-space' completed successfully: 01 16 2023 23:13:11Z
+    DateTime=2023-01-16T23:13:11.2048778Z: 01 16 2023 23:13:11Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:13:11Z
+    DateTime=2023-01-16T23:13:11.8203243Z: 01 16 2023 23:13:11Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:13:11Z
+    DateTime=2023-01-16T23:13:11.8203243Z: 01 16 2023 23:13:11Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:13:11Z
+    DateTime=2023-01-16T23:13:11.8203243Z: 01 16 2023 23:13:11Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:13:11Z
+    DateTime=2023-01-16T23:13:11.8213246Z: 01 16 2023 23:13:11Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Sdk packs found: : 01 16 2023 23:13:11Z
+    DateTime=2023-01-16T23:13:11.8829261Z: 01 16 2023 23:13:11Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Sdk packs found: : 01 16 2023 23:13:11Z
+    DateTime=2023-01-16T23:13:11.8829261Z: 01 16 2023 23:13:11Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:13:11Z
+    DateTime=2023-01-16T23:13:11.9120984Z: 01 16 2023 23:13:11Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:13:11Z
+    DateTime=2023-01-16T23:13:11.9120984Z: 01 16 2023 23:13:11Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:13:11Z
+    DateTime=2023-01-16T23:13:11.9130996Z: 01 16 2023 23:13:11Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:13:11Z
+    DateTime=2023-01-16T23:13:11.9130996Z: 01 16 2023 23:13:11Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Creating OSVersionList.json file..: 01 16 2023 23:13:12Z
+    DateTime=2023-01-16T23:13:12.3018201Z: 01 16 2023 23:13:12Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:13:12Z
+    DateTime=2023-01-16T23:13:12.3018201Z: 01 16 2023 23:13:12Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : !Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:13:12Z
+    DateTime=2023-01-16T23:13:12.3028260Z: 01 16 2023 23:13:12Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode version compatibility...: 01 16 2023 23:13:12Z
+    DateTime=2023-01-16T23:13:12.3028260Z: 01 16 2023 23:13:12Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode version compatibility...: 01 16 2023 23:13:12Z
+    DateTime=2023-01-16T23:13:12.3028260Z: 01 16 2023 23:13:12Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:13:13Z
+    DateTime=2023-01-16T23:13:13.1880222Z: 01 16 2023 23:13:13Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:13:13Z
+    DateTime=2023-01-16T23:13:13.1880222Z: 01 16 2023 23:13:13Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:13:13Z
+    DateTime=2023-01-16T23:13:13.1890311Z: 01 16 2023 23:13:13Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:13:13Z
+    DateTime=2023-01-16T23:13:13.1890311Z: 01 16 2023 23:13:13Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Sdk packs found: : 01 16 2023 23:13:13Z
+    DateTime=2023-01-16T23:13:13.3312975Z: 01 16 2023 23:13:13Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Sdk packs found: : 01 16 2023 23:13:13Z
+    DateTime=2023-01-16T23:13:13.3312975Z: 01 16 2023 23:13:13Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:13:13Z
+    DateTime=2023-01-16T23:13:13.3506147Z: 01 16 2023 23:13:13Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:13:13Z
+    DateTime=2023-01-16T23:13:13.3506147Z: 01 16 2023 23:13:13Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:13:13Z
+    DateTime=2023-01-16T23:13:13.3519053Z: 01 16 2023 23:13:13Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:13:13Z
+    DateTime=2023-01-16T23:13:13.3519053Z: 01 16 2023 23:13:13Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Creating OSVersionList.json file..: 01 16 2023 23:13:13Z
+    DateTime=2023-01-16T23:13:13.4456557Z: 01 16 2023 23:13:13Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:13:13Z
+    DateTime=2023-01-16T23:13:13.4456557Z: 01 16 2023 23:13:13Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : !Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:13:13Z
+    DateTime=2023-01-16T23:13:13.4456557Z: 01 16 2023 23:13:13Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode version compatibility...: 01 16 2023 23:13:13Z
+    DateTime=2023-01-16T23:13:13.4456557Z: 01 16 2023 23:13:13Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode version compatibility...: 01 16 2023 23:13:13Z
+    DateTime=2023-01-16T23:13:13.4456557Z: 01 16 2023 23:13:13Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:13:13Z
+    DateTime=2023-01-16T23:13:13.7430103Z: 01 16 2023 23:13:13Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:13:13Z
+    DateTime=2023-01-16T23:13:13.7430103Z: 01 16 2023 23:13:13Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:13:23Z
+    DateTime=2023-01-16T23:13:23.8567608Z: 01 16 2023 23:13:23Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:13:23Z
+    DateTime=2023-01-16T23:13:23.8567608Z: 01 16 2023 23:13:23Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:13:23Z
+    DateTime=2023-01-16T23:13:23.8874901Z: 01 16 2023 23:13:23Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:13:23Z
+    DateTime=2023-01-16T23:13:23.8874901Z: 01 16 2023 23:13:23Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:13:24Z
+    DateTime=2023-01-16T23:13:24.4946001Z: 01 16 2023 23:13:24Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:13:24Z
+    DateTime=2023-01-16T23:13:24.4946001Z: 01 16 2023 23:13:24Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConnectedState to AgentsCompletingState on gray-space (192.168.101.210): 01 16 2023 23:14:06Z
+    DateTime=2023-01-16T23:14:06.9088755Z: 01 16 2023 23:14:06Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from AgentsCompletingState to ConnectedState on gray-space (192.168.101.210): 01 16 2023 23:14:07Z
+    DateTime=2023-01-16T23:14:07.0438326Z: 01 16 2023 23:14:07Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Connection to 'gray-space' completed successfully: 01 16 2023 23:14:07Z
+    DateTime=2023-01-16T23:14:07.0653540Z: 01 16 2023 23:14:07Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Connection to 'gray-space' completed successfully: 01 16 2023 23:14:07Z
+    DateTime=2023-01-16T23:14:07.0653540Z: 01 16 2023 23:14:07Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:14:07Z
+    DateTime=2023-01-16T23:14:07.7809551Z: 01 16 2023 23:14:07Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:14:07Z
+    DateTime=2023-01-16T23:14:07.7809551Z: 01 16 2023 23:14:07Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:14:07Z
+    DateTime=2023-01-16T23:14:07.7819540Z: 01 16 2023 23:14:07Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:14:07Z
+    DateTime=2023-01-16T23:14:07.7819540Z: 01 16 2023 23:14:07Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Sdk packs found: : 01 16 2023 23:14:07Z
+    DateTime=2023-01-16T23:14:07.8037018Z: 01 16 2023 23:14:07Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Sdk packs found: : 01 16 2023 23:14:07Z
+    DateTime=2023-01-16T23:14:07.8046646Z: 01 16 2023 23:14:07Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:14:07Z
+    DateTime=2023-01-16T23:14:07.8271953Z: 01 16 2023 23:14:07Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:14:07Z
+    DateTime=2023-01-16T23:14:07.8271953Z: 01 16 2023 23:14:07Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:14:07Z
+    DateTime=2023-01-16T23:14:07.8292061Z: 01 16 2023 23:14:07Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:14:07Z
+    DateTime=2023-01-16T23:14:07.8292061Z: 01 16 2023 23:14:07Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Creating OSVersionList.json file..: 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.0413465Z: 01 16 2023 23:14:08Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.0423463Z: 01 16 2023 23:14:08Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : !Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.0423463Z: 01 16 2023 23:14:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode version compatibility...: 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.0433474Z: 01 16 2023 23:14:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode version compatibility...: 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.0433474Z: 01 16 2023 23:14:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.7413288Z: 01 16 2023 23:14:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.7413288Z: 01 16 2023 23:14:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.7423341Z: 01 16 2023 23:14:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.7423341Z: 01 16 2023 23:14:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Sdk packs found: : 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.7963394Z: 01 16 2023 23:14:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Sdk packs found: : 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.7963394Z: 01 16 2023 23:14:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.8159406Z: 01 16 2023 23:14:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.8159406Z: 01 16 2023 23:14:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.8169412Z: 01 16 2023 23:14:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.8169412Z: 01 16 2023 23:14:08Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Creating OSVersionList.json file..: 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.9602662Z: 01 16 2023 23:14:08Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.9622726Z: 01 16 2023 23:14:08Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : !Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.9622726Z: 01 16 2023 23:14:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode version compatibility...: 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.9622726Z: 01 16 2023 23:14:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode version compatibility...: 01 16 2023 23:14:08Z
+    DateTime=2023-01-16T23:14:08.9622726Z: 01 16 2023 23:14:08Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:14:30Z
+    DateTime=2023-01-16T23:14:30.6934361Z: 01 16 2023 23:14:30Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:14:30Z
+    DateTime=2023-01-16T23:14:30.6934361Z: 01 16 2023 23:14:30Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:14:30Z
+    DateTime=2023-01-16T23:14:30.7236427Z: 01 16 2023 23:14:30Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:14:30Z
+    DateTime=2023-01-16T23:14:30.7236427Z: 01 16 2023 23:14:30Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:14:30Z
+    DateTime=2023-01-16T23:14:30.8203679Z: 01 16 2023 23:14:30Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:14:30Z
+    DateTime=2023-01-16T23:14:30.8203679Z: 01 16 2023 23:14:30Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:15:08Z
+    DateTime=2023-01-16T23:15:08.5513381Z: 01 16 2023 23:15:08Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:15:08Z
+    DateTime=2023-01-16T23:15:08.5513381Z: 01 16 2023 23:15:08Z
+Xamarin.VisualStudio.Progress.ProgressReportService Information: 0 : Starting Simulator to launch App...: 01 16 2023 23:15:12Z
+    DateTime=2023-01-16T23:15:12.1397505Z: 01 16 2023 23:15:12Z
+Xamarin.VisualStudio.Progress.ProgressReportService Information: 0 : !Starting Simulator to launch App...: 01 16 2023 23:15:12Z
+    DateTime=2023-01-16T23:15:12.1397505Z: 01 16 2023 23:15:12Z
+Xamarin.VisualStudio.Progress.ProgressReportService Information: 0 : The Simulator has been started to launch App...: 01 16 2023 23:15:12Z
+    DateTime=2023-01-16T23:15:12.3868218Z: 01 16 2023 23:15:12Z
+Xamarin.VisualStudio.Progress.ProgressReportService Information: 0 : !The Simulator has been started to launch App...: 01 16 2023 23:15:12Z
+    DateTime=2023-01-16T23:15:12.3868218Z: 01 16 2023 23:15:12Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConnectedState to AgentsCompletingState on gray-space (192.168.101.210): 01 16 2023 23:16:36Z
+    DateTime=2023-01-16T23:16:36.9111818Z: 01 16 2023 23:16:36Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from AgentsCompletingState to ConnectedState on gray-space (192.168.101.210): 01 16 2023 23:16:37Z
+    DateTime=2023-01-16T23:16:37.1278873Z: 01 16 2023 23:16:37Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Connection to 'gray-space' completed successfully: 01 16 2023 23:16:37Z
+    DateTime=2023-01-16T23:16:37.3317799Z: 01 16 2023 23:16:37Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Connection to 'gray-space' completed successfully: 01 16 2023 23:16:37Z
+    DateTime=2023-01-16T23:16:37.3317799Z: 01 16 2023 23:16:37Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:16:37Z
+    DateTime=2023-01-16T23:16:37.7359899Z: 01 16 2023 23:16:37Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet SDK is already installed. Version: '7.0.101': 01 16 2023 23:16:37Z
+    DateTime=2023-01-16T23:16:37.7359899Z: 01 16 2023 23:16:37Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:16:37Z
+    DateTime=2023-01-16T23:16:37.7369913Z: 01 16 2023 23:16:37Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:16:37Z
+    DateTime=2023-01-16T23:16:37.7369913Z: 01 16 2023 23:16:37Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Sdk packs found: : 01 16 2023 23:16:38Z
+    DateTime=2023-01-16T23:16:38.2424828Z: 01 16 2023 23:16:38Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Sdk packs found: : 01 16 2023 23:16:38Z
+    DateTime=2023-01-16T23:16:38.2424828Z: 01 16 2023 23:16:38Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:16:38Z
+    DateTime=2023-01-16T23:16:38.2650214Z: 01 16 2023 23:16:38Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The dotnet ios workload is already installed. Version: '16.1.1477': 01 16 2023 23:16:38Z
+    DateTime=2023-01-16T23:16:38.2650214Z: 01 16 2023 23:16:38Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : dotnet validation completed: 01 16 2023 23:16:38Z
+    DateTime=2023-01-16T23:16:38.2670181Z: 01 16 2023 23:16:38Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !dotnet validation completed: 01 16 2023 23:16:38Z
+    DateTime=2023-01-16T23:16:38.2670181Z: 01 16 2023 23:16:38Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Creating OSVersionList.json file..: 01 16 2023 23:16:38Z
+    DateTime=2023-01-16T23:16:38.3700982Z: 01 16 2023 23:16:38Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:16:38Z
+    DateTime=2023-01-16T23:16:38.3710950Z: 01 16 2023 23:16:38Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : !Server Settings:
+- mlaunch path: /Users/matthew/Library/Caches/Xamarin/XMA/SDKs/dotnet/packs/Microsoft.iOS.Sdk/16.1.1477/tools/bin/mlaunch
+- Xcode version: 14.2
+- Xcode path: /Applications/Xcode.app
+: 01 16 2023 23:16:38Z
+    DateTime=2023-01-16T23:16:38.3710950Z: 01 16 2023 23:16:38Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode version compatibility...: 01 16 2023 23:16:38Z
+    DateTime=2023-01-16T23:16:38.3710950Z: 01 16 2023 23:16:38Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode version compatibility...: 01 16 2023 23:16:38Z
+    DateTime=2023-01-16T23:16:38.3710950Z: 01 16 2023 23:16:38Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:16:41Z
+    DateTime=2023-01-16T23:16:41.8953997Z: 01 16 2023 23:16:41Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:16:41Z
+    DateTime=2023-01-16T23:16:41.8967242Z: 01 16 2023 23:16:41Z
+Xamarin.VisualStudio.Devices.DeviceManager Error: 0 : lastDebugActiveProfile: : 01 16 2023 23:16:41Z
+    DateTime=2023-01-16T23:16:41.8987235Z: 01 16 2023 23:16:41Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 23:16:41Z
+    DateTime=2023-01-16T23:16:41.8997229Z: 01 16 2023 23:16:41Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : !SetSelectedDeviceAsync BEST Pixel 5 - API 33 (Android 13.0 - API 33): 01 16 2023 23:16:41Z
+    DateTime=2023-01-16T23:16:41.8997229Z: 01 16 2023 23:16:41Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:16:41Z
+    DateTime=2023-01-16T23:16:41.9222512Z: 01 16 2023 23:16:41Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:16:41Z
+    DateTime=2023-01-16T23:16:41.9222512Z: 01 16 2023 23:16:41Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:16:41Z
+    DateTime=2023-01-16T23:16:41.9933567Z: 01 16 2023 23:16:41Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:16:41Z
+    DateTime=2023-01-16T23:16:41.9933567Z: 01 16 2023 23:16:41Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: verify android sdk installed: 01 16 2023 23:16:46Z
+    DateTime=2023-01-16T23:16:46.1089834Z: 01 16 2023 23:16:46Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: removing android sdk errors: 01 16 2023 23:16:46Z
+    DateTime=2023-01-16T23:16:46.1089834Z: 01 16 2023 23:16:46Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:17:26Z
+    DateTime=2023-01-16T23:17:26.1083274Z: 01 16 2023 23:17:26Z
+Xamarin.VisualStudio.IOS.PropertyProviders.BuildPropertiesProvider Information: 0 : !Build properties for C:\Projects\Testing\MauiApp69\MauiApp69\MauiApp69.csproj: VisualStudioProcessId: 61800, SolutionPath: C:\Projects\Testing\MauiApp69\MauiApp69.sln, SolutionName: MauiApp69, RunConfiguration: Default, ArchiveOnBuild: False, ArchivePath: , IsAppDistribution: False, DeviceSpecificBuild: false, TargetiOSDevice: , _iOSRuntimeIdentifier: iossimulator-x64, IsHotRestartBuild: False, MessagingVersion: 16.1.1477, _DotNetRootRemoteDirectory: /Users/matthew\Library\Caches\Xamarin\XMA\SDKs\dotnet/, ServerSshPort: 22, ServerTcpPort: 51659, ServerUser: matthew, ContinueOnDisconnected: False, ServerAddress: 192.168.101.210: 01 16 2023 23:17:26Z
+    DateTime=2023-01-16T23:17:26.1083274Z: 01 16 2023 23:17:26Z

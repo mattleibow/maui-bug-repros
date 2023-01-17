@@ -1,0 +1,40 @@
+﻿MonoDroidLog: Information: 0: [I:]:                     Looking for Android SDK...
+MonoDroidLog: Information: 0: [I:]:                     Tracking android devices stopped
+MonoDroidLog: Error: 0: [E:]:                     Error getting properties from device 'emulator-5554'
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Mono.AndroidTools.AndroidDevice.<RefreshProperties>d__52.MoveNext() in D:\a\_work\1\s\External\androidtools\Mono.AndroidTools\AndroidDevice.cs:line 287
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Mono.AndroidTools.DevicePropertiesTracker.<GetAndAnnotatePropertiesAsync>d__9.MoveNext() in D:\a\_work\1\s\External\androidtools\Mono.AndroidTools\AndroidDeviceManager.cs:line 532
+MonoDroidLog: Information: 0: [I:]:                     Tracking android devices started
+MonoDroidLog: Information: 0: [I:]:                     Got new device list from adb with 1 devices
+MonoDroidLog: Information: 0: [I:]:                     Tracking android devices stopped
+MonoDroidLog: Error: 0: [E:]:                     Error getting properties from device 'emulator-5554'
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Mono.AndroidTools.AndroidDevice.<RefreshProperties>d__52.MoveNext() in D:\a\_work\1\s\External\androidtools\Mono.AndroidTools\AndroidDevice.cs:line 287
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Mono.AndroidTools.DevicePropertiesTracker.<GetAndAnnotatePropertiesAsync>d__9.MoveNext() in D:\a\_work\1\s\External\androidtools\Mono.AndroidTools\AndroidDeviceManager.cs:line 532
+MonoDroidLog: Information: 0: [I:]:                     Tracking android devices started
+MonoDroidLog: Information: 0: [I:]:                     Got new device list from adb with 1 devices
+MonoDroidLog: Information: 0: [I:]:                     Tracking android devices stopped
+MonoDroidLog: Error: 0: [E:]:                     Error getting properties from device 'emulator-5554'
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Mono.AndroidTools.AndroidDevice.<RefreshProperties>d__52.MoveNext() in D:\a\_work\1\s\External\androidtools\Mono.AndroidTools\AndroidDevice.cs:line 287
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Mono.AndroidTools.DevicePropertiesTracker.<GetAndAnnotatePropertiesAsync>d__9.MoveNext() in D:\a\_work\1\s\External\androidtools\Mono.AndroidTools\AndroidDeviceManager.cs:line 532
+MonoDroidLog: Information: 0: [I:]:                     Tracking android devices started
+MonoDroidLog: Information: 0: [I:]:                     Got new device list from adb with 1 devices

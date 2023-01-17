@@ -1,0 +1,227 @@
+[2023-01-17 00:38:44.0] DEBUG: Hot Reload IDE Extension Loaded
+[2023-01-17 00:40:08.2] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-17 00:40:08.2] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-17 00:40:08.7] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-17 00:54:12.9] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-17 00:54:12.9] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-17 00:54:13.4] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-17 00:54:57.3] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-17 00:54:57.3] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-17 00:54:58.0] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-17 00:55:43.0] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-17 00:55:43.0] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-17 00:55:43.9] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-17 01:06:29.8] INFO: Stopping All Hot Reload sessions due to Cleanup ...
+[2023-01-17 01:13:06.9] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-17 01:13:07.0] DEBUG: (MauiApp69) HotReloadSharedBridge: Added Project
+[2023-01-17 01:13:07.1] INFO: (MauiApp69) Starting Hot Reload session...
+[2023-01-17 01:13:07.1] DEBUG: (MauiApp69) Breakpoint - MauiApp69.Program.Main
+[2023-01-17 01:13:07.1] DEBUG: (MauiApp69) New Breakpoint
+[2023-01-17 01:13:17.2] INFO: (MauiApp69) Stopping a Hot Reload session due to ExplicitlyEnded ...
+[2023-01-17 01:13:17.2] DEBUG: (MauiApp69) HotReloadSharedBridge: Removed Project
+[2023-01-17 01:13:17.2] INFO: Stopped Hot Reload session.
+[2023-01-17 01:15:41.1] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-17 01:15:41.1] DEBUG: (MauiApp69) HotReloadSharedBridge: Added Project
+[2023-01-17 01:15:41.1] INFO: (MauiApp69) Starting Hot Reload session...
+[2023-01-17 01:15:41.1] DEBUG: (MauiApp69) Breakpoint - MauiApp69.Program.Main
+[2023-01-17 01:15:41.1] DEBUG: (MauiApp69) New Breakpoint
+[2023-01-17 01:15:54.0] DEBUG: (MauiApp69) MauiApp69.Program.Main entryBreakpoint
+[2023-01-17 01:15:54.0] DEBUG: (MauiApp69) Initializing HotReload Agent...
+[2023-01-17 01:15:54.0] INFO: XAML Hot Reload initializing...
+[2023-01-17 01:15:54.0] DEBUG: (MauiApp69) Injecting Assembly (47008 bytes)...
+[2023-01-17 01:15:54.1] DEBUG: (MauiApp69) Unknown Breakpoint Hit: MauiApp69.Program.Main(string[] args)
+[2023-01-17 01:15:54.2] DEBUG: (MauiApp69) Injected Assembly (47008 bytes).
+[2023-01-17 01:15:54.2] DEBUG: (MauiApp69) Injecting Assembly (40352 bytes)...
+[2023-01-17 01:15:54.2] DEBUG: (MauiApp69) Injected Assembly (40352 bytes).
+[2023-01-17 01:15:54.2] DEBUG: (MauiApp69) Injecting Assembly (221584 bytes)...
+[2023-01-17 01:15:54.4] DEBUG: (MauiApp69) Injected Assembly (221584 bytes).
+[2023-01-17 01:15:54.4] DEBUG: (MauiApp69) Injecting Assembly (50576 bytes)...
+[2023-01-17 01:15:54.4] DEBUG: (MauiApp69) Injected Assembly (50576 bytes).
+[2023-01-17 01:15:54.4] DEBUG: (MauiApp69) Injecting Assembly (86416 bytes)...
+[2023-01-17 01:15:54.5] DEBUG: (MauiApp69) Injected Assembly (86416 bytes).
+[2023-01-17 01:15:55.1] DEBUG: (MauiApp69) Breakpoint - Xamarin.HotReload.HotReloadAgent.BreakpointSendToIde
+[2023-01-17 01:15:55.1] DEBUG: (MauiApp69) New Breakpoint
+[2023-01-17 01:15:55.4] DEBUG: (MauiApp69) Initialized HotReload Agent.
+[2023-01-17 01:15:55.4] DEBUG: (MauiApp69) Breakpoint - Xamarin.HotReload.HotReloadAgent.BreakpointCheckpoint
+[2023-01-17 01:15:55.4] DEBUG: (MauiApp69) New Breakpoint
+[2023-01-17 01:16:00.6] DEBUG: (MauiApp69) Xamarin.HotReload.HotReloadAgent.BreakpointSendToIde messageReceivedBreakpoint
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.iOS, Version=16.1.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Microsoft.iOS, Version=16.1.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Runtime, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Runtime, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Collections, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Collections, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Runtime.InteropServices, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Runtime.InteropServices, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Threading.Thread, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Threading.Thread, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Threading, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Threading, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: MauiApp69, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: MauiApp69, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.Maui.Controls, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Microsoft.Maui.Controls, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.ObjectModel, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.ObjectModel, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.Maui, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Microsoft.Maui, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.Maui.Controls.Xaml, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Microsoft.Maui.Controls.Xaml, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.ComponentModel, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.ComponentModel, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Private.Uri, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Private.Uri, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.Maui.Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Microsoft.Maui.Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Numerics.Vectors, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Numerics.Vectors, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Xml.ReaderWriter, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Xml.ReaderWriter, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Private.Xml, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Private.Xml, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Memory, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Memory, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Diagnostics.TraceSource, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Diagnostics.TraceSource, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Collections.NonGeneric, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Collections.NonGeneric, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Collections.Specialized, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Collections.Specialized, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.ComponentModel.Primitives, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.ComponentModel.Primitives, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Text.RegularExpressions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Text.RegularExpressions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Reflection.Emit.ILGeneration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Reflection.Emit.ILGeneration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Collections.Concurrent, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Collections.Concurrent, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Reflection.Emit.Lightweight, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Reflection.Emit.Lightweight, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Reflection.Primitives, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Reflection.Primitives, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Net.Primitives, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Net.Primitives, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Diagnostics.Tracing, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Diagnostics.Tracing, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.Win32.Primitives, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Microsoft.Win32.Primitives, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Net.Http, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Net.Http, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Net.Security, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Net.Security, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Security.Cryptography, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Security.Cryptography, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Formats.Asn1, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Formats.Asn1, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Text.Encoding.Extensions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Text.Encoding.Extensions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Runtime.Numerics, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Runtime.Numerics, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Net.Sockets, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Net.Sockets, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Net.NameResolution, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Net.NameResolution, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Threading.ThreadPool, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Threading.ThreadPool, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Security.Claims, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Security.Claims, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Linq, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Linq, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Diagnostics.DiagnosticSource, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Diagnostics.DiagnosticSource, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Net.Quic, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Net.Quic, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.IO.Compression, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.IO.Compression, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.IO.Compression.Brotli, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.IO.Compression.Brotli, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Threading.Channels, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Threading.Channels, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Net.NetworkInformation, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Net.NetworkInformation, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Reflection.Emit, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Reflection.Emit, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Runtime.Loader, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Runtime.Loader, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Linq.Expressions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Linq.Expressions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.ComponentModel.TypeConverter, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.ComponentModel.TypeConverter, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Drawing.Primitives, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Drawing.Primitives, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Runtime.Serialization.Formatters, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Runtime.Serialization.Formatters, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Resources.Writer, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Resources.Writer, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Xml.XDocument, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Xml.XDocument, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Private.Xml.Linq, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Private.Xml.Linq, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.Extensions.Logging.Abstractions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Microsoft.Extensions.Logging.Abstractions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.Extensions.DependencyInjection.Abstractions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Microsoft.Extensions.DependencyInjection.Abstractions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.Maui.Essentials, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Microsoft.Maui.Essentials, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Console, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Console, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.Extensions.Configuration.Abstractions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Microsoft.Extensions.Configuration.Abstractions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.Extensions.Primitives, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Microsoft.Extensions.Primitives, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.Extensions.Configuration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Microsoft.Extensions.Configuration, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.Extensions.Logging, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Microsoft.Extensions.Logging, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.Extensions.Options, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Microsoft.Extensions.Options, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.Extensions.DependencyInjection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Microsoft.Extensions.DependencyInjection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.Extensions.Logging.Debug, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Microsoft.Extensions.Logging.Debug, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Xamarin.HotReload.Agent, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Xamarin.HotReload.Agent, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Xamarin.HotReload.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Xamarin.HotReload.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.Maui.Controls.HotReload.Forms, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] PERF: (MauiApp69) (HotReloadAgent) Created MauiAgent in 1ms
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) (MauiAgent) Hot Reload: Initializing Agent for Microsoft.Maui...
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) (MauiAgent) Hot Reload: Microsoft.Maui 7.0.51.1 installed
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Xamarin.HotReload.Translations, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Xamarin.HotReload.Translations, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: Microsoft.VisualStudio.DesignTools.TapContract, Version=17.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: Microsoft.VisualStudio.DesignTools.TapContract, Version=17.0.0.0, Culture=neutral, PublicKeyToken=null
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: netstandard, Version=2.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: netstandard, Version=2.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Text.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Text.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) Inspecting: System.Text.Encodings.Web, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) No HotReload Agent Attribute found on Assembly: System.Text.Encodings.Web, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) (HotReloadAgent) (MauiAgent) Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-17 01:16:00.8] PERF: (MauiApp69) (HotReloadAgent) Initialized MauiAgent in 1837ms
+[2023-01-17 01:16:00.8] INFO: (MauiApp69) Hot Reload: Initialized Agent.
+[2023-01-17 01:16:00.8] INFO: XAML Hot Reload Connected and Ready.
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) HotReload Tap Initialized. Enabling XET pipeline, Supported Platform Maui
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) Xamarin.HotReload.HotReloadAgent.BreakpointCheckpoint invokeQueueBreakpoint
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) SetInvokedQueueBreakpointCheck: True
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) invokeQueueBreakpoint empty change and invoke queue
+[2023-01-17 01:16:00.8] DEBUG: (MauiApp69) ResetInvokedQueueBreakpointCheck
+[2023-01-17 01:16:01.2] DEBUG: (MauiApp69) Xamarin.HotReload.HotReloadAgent.BreakpointCheckpoint invokeQueueBreakpoint
+[2023-01-17 01:16:01.2] DEBUG: (MauiApp69) SetInvokedQueueBreakpointCheck: True
+[2023-01-17 01:16:01.2] DEBUG: (MauiApp69) Sending Message to Agent: RuntimeHostMessage
+[2023-01-17 01:16:01.2] DEBUG: (MauiApp69) Sent Message to Agent: RuntimeHostMessage
+[2023-01-17 01:16:01.2] DEBUG: (MauiApp69) Sending Message to Agent: RuntimeHostMessage
+[2023-01-17 01:16:01.2] DEBUG: (MauiApp69) Sent Message to Agent: RuntimeHostMessage
+[2023-01-17 01:16:01.2] DEBUG: (MauiApp69) Sending Message to Agent: RuntimeHostMessage
+[2023-01-17 01:16:01.2] DEBUG: (MauiApp69) Sent Message to Agent: RuntimeHostMessage
+[2023-01-17 01:16:01.2] DEBUG: (MauiApp69) Sending Message to Agent: RuntimeHostMessage
+[2023-01-17 01:16:01.3] DEBUG: (MauiApp69) Sent Message to Agent: RuntimeHostMessage
+[2023-01-17 01:16:01.3] DEBUG: (MauiApp69) ResetInvokedQueueBreakpointCheck
+[2023-01-17 01:16:01.3] DEBUG: (MauiApp69) invokeQueueBreakpoint change and invoke queue
+[2023-01-17 01:16:01.9] DEBUG: (MauiApp69) Xamarin.HotReload.HotReloadAgent.BreakpointSendToIde messageReceivedBreakpoint
+[2023-01-17 01:16:16.1] INFO: (MauiApp69) Stopping a Hot Reload session due to ExplicitlyEnded ...
+[2023-01-17 01:16:16.1] DEBUG: (MauiApp69) HotReloadSharedBridge: Removed Project
+[2023-01-17 01:16:16.1] INFO: Stopped Hot Reload session.
+[2023-01-17 01:16:32.3] INFO: Stopping All Hot Reload sessions due to Cleanup ...

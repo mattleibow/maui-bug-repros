@@ -1,0 +1,70 @@
+[2023-01-16 19:53:23.0] DEBUG: Hot Reload IDE Extension Loaded
+[2023-01-16 19:59:16.0] INFO: Stopping All Hot Reload sessions due to Cleanup ...
+[2023-01-16 19:59:16.7] INFO: Stopping All Hot Reload sessions due to Cleanup ...
+[2023-01-16 21:08:53.5] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:08:53.5] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:08:54.2] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:12:48.5] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:12:48.5] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:12:49.3] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:13:09.8] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:13:09.8] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:13:10.3] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:27:07.9] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:27:07.9] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:27:08.3] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:30:57.6] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:30:57.6] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:30:58.2] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:35:40.2] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:35:40.2] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:35:40.4] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:36:15.6] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:36:15.6] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:36:16.0] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:38:40.8] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:38:40.8] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:38:41.3] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:38:54.1] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:38:54.1] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:39:06.0] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:40:46.8] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:40:46.8] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:40:47.3] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:41:09.3] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:41:09.3] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:41:09.8] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:42:13.1] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:42:13.1] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:42:13.6] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:43:17.9] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:43:17.9] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:43:18.3] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:43:33.0] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:43:33.0] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:43:33.5] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:43:47.5] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:43:47.5] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:43:48.0] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:44:06.9] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:44:06.9] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:44:07.4] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:44:37.2] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:44:37.2] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:44:37.7] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:45:05.4] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:45:05.4] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:45:05.9] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:45:30.3] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:45:30.3] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:45:30.9] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:46:42.1] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:46:42.1] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:46:42.5] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:47:32.9] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:47:32.9] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:47:33.4] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-16 21:49:39.4] INFO: (MauiApp69) .NET 6 Project references .NET MAUI.
+[2023-01-16 21:49:39.4] INFO: (MauiApp69) WinUI hot reload is in progress.
+[2023-01-16 21:49:39.8] DEBUG: Hot Reload: Initialized Agent for Microsoft.Maui.
+[2023-01-17 00:32:18.9] INFO: Stopping All Hot Reload sessions due to Cleanup ...
