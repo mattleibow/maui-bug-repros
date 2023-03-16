@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: windows-latest
+    runs-on: macos-latest
 
     steps:
     - uses: actions/checkout@v3
@@ -23,6 +23,7 @@ jobs:
     - name: Setup .NET MAUI
       run: dotnet workload install maui
     - name: Run Test
+      shell: pwsh
       run: |
         dotnet --info
         dotnet workload --info
@@ -32,11 +33,11 @@ jobs:
 
         dotnet add package Newtonsoft.Json --version 13.0.1
         dotnet build -f net8.0-android /bl:build-1-after-json.binlog
-        (Get-Item obj\Debug\net8.0-android\android\assets\Newtonsoft.Json.dll).VersionInfo
+        (Get-Item obj/Debug/net8.0-android/android/assets/Newtonsoft.Json.dll).VersionInfo
 
         dotnet add package Newtonsoft.Json --version 13.0.3
         dotnet build -f net8.0-android /bl:build-1-after-update.binlog
-        (Get-Item obj\Debug\net8.0-android\android\assets\Newtonsoft.Json.dll).VersionInfo
+        (Get-Item obj/Debug/net8.0-android/android/assets/Newtonsoft.Json.dll).VersionInfo
     - name: Upload Binlogs
       uses: actions/upload-artifact@v3.1.2
       with:
