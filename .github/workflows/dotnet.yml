@@ -1,0 +1,39 @@
+# This workflow will build a .NET project
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net
+
+name: .NET
+
+on:
+  push:
+    branches: [ "repro-android-not-updating" ]
+  pull_request:
+    branches: [ "repro-android-not-updating" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: 8.0.100-preview.2.23157.25
+    - name: Setup .NET MAUI
+      run: dotnet workload install maui
+    - name: Run Test
+      run: |
+        dotnet --info
+        dotnet workload --info
+
+        dotnet new maui
+        dotnet build -f net8.0-android /bl:build-1-initial.binlog
+
+        dotnet add package Newtonsoft.Json --version 13.0.1
+        dotnet build -f net8.0-android /bl:build-1-after-json.binlog
+        (Get-Item obj\Debug\net8.0-android\android\assets\Newtonsoft.Json.dll).VersionInfo
+
+        dotnet add package Newtonsoft.Json --version 13.0.3
+        dotnet build -f net8.0-android /bl:build-1-after-update.binlog
+        (Get-Item obj\Debug\net8.0-android\android\assets\Newtonsoft.Json.dll).VersionInfo
